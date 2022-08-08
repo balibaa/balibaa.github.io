@@ -1,1 +1,1 @@
-rep of files/proyects ready for public
+Reppsitory of files/projects ready for public.
