@@ -1,1 +1,1 @@
-Reppsitory of files/projects ready for public.
+Repository of files/projects ready for public.
