@@ -1,0 +1,939 @@
+oldal,sor,PID,name,ing_sz,ingatlan,terület,művelési ág,rendeltetés,alapterület,jogi jelleg,jogállás,tulajdoni hányad,jogviszony
+2,21,1,Hegedűs Barbara,1,Veszprém,72 m2,-----,lakóház,77,társasház,tulajdonos,1/2,  2019. november 7.
+2,38,1,Hegedűs Barbara,2,Veszprém,593 m2,-----,,,telek,tulajdonos,1/2,  2022. július 30.
+11,21,2,Arató Gergely László,1,Gyál,539 m3,Lakóház és udvar,"Lakóház,",168,Családi ház,Tulajdonos,1/2,"Vásárlás,  2003"
+11,38,2,Arató Gergely László,2,Ároktő,2082 m2,zártkert,,,-----,tulajdonos,1/8,"öröklés,  2022"
+20,21,3,Ágh Péter,1,-----,-----,-----,,,-----,-----,-----,-----
+29,21,4,dr. Aradszki András,1,Érd Hrsz:12233,889 m2,-----,"Lakóház,","udvar,",Családi ház,tulajdonos,-----,"vétel,öröklés  2003.12.18, 2023. 02.18."
+29,38,4,dr. Aradszki András,2,Érd Hrsz: 2507/A/1,763 m2,-----,2,lakásos,társasházi lakás,tulajdonos,1/2,"Vétel, építés,  2017. 08.01."
+30,17,4,dr. Aradszki András,3,Békéscsaba Hrsz:3718/A/97,30 m2,-----,"üzlet,",30,társasházi üzlet,tulajdonos,-----,"öröklés, vétel,  2009. 10.29."
+30,34,4,dr. Aradszki András,4,Siófok Hrsz: 426,552 m2,-----,Hétvégi,"ház,",üdülő,tulajdonos,1/4,"vétel,  2015. 07. 25."
+31,17,4,dr. Aradszki András,5,Békéscsaba,502 m2,-----,"Lakóház,",udvar,családi ház,tulajdonos,1/6,öröklés  2024.05.15.
+40,21,5,dr. Apáti István,1,Csenger,499547 m2,"legelő, erdő",,,-----,tulajdonos,7266/117798,"ajándék,  2001. 12. 10."
+40,38,5,dr. Apáti István,2,Csenger,499547 m2,"legelő, erdő",,,-----,tulajdonos,3633/117798,"ajándék,  2021. 04. 29."
+41,17,5,dr. Apáti István,3,Csenger,499547 m2,"legelő, erdő",,,-----,tulajdonos,4800/117798,"adásvétel,  2021. 08. 25."
+41,34,5,dr. Apáti István,4,Csenger,499547 m2,"legelő, erdő",,,-----,tulajdonos,9600/117798,"adásvétel,  2022. 04. 04."
+42,17,5,dr. Apáti István,5,Csenger,67820 m2,gyümölcsös,,,-----,tulajdonos,4784/14351,"részarányátadás,  2000. 07. 20."
+42,34,5,dr. Apáti István,6,Csenger,10625 m2,szántó,,,-----,tulajdonos,-----,"adásvétel,  2001. 12. 19."
+43,17,5,dr. Apáti István,7,Csenger,11786 m2,gyümölcsös,,,-----,tulajdonos,1/3,"csere,  1999. 03. 04."
+43,34,5,dr. Apáti István,8,Szamosangyalos,3383 m2,szántó,,,-----,tulajdonos,3000/8373,"adásvétel,  1988. 04. 05."
+44,17,5,dr. Apáti István,9,Szamosangyalos,3975 m2,szántó,,,-----,tulajdonos,3000/8373,"adásvétel,  1988. 04. 05."
+44,34,5,dr. Apáti István,10,Őr,800 m2,kert,,,-----,tulajdonos,1/2,"öröklés,  1997. 08. 01."
+45,17,5,dr. Apáti István,11,Csenger,73892 m2,gyümölcsös,,,-----,tulajdonos,1/3,"adásvétel,  1996. 02. 28."
+45,34,5,dr. Apáti István,12,Csenger,10390 m2,szántó,,,-----,tulajdonos,-----,"adásvétel,  2003. 10. 14."
+46,17,5,dr. Apáti István,13,Csenger,61757 m2,erdő,,,-----,tulajdonos,1/27,"adásvétel,  1998. 03. 18."
+46,34,5,dr. Apáti István,14,Csenger,70446 m2,gyümölcsös,,,-----,tulajdonos,3075/9225,"részarányátadás, "
+47,17,5,dr. Apáti István,15,Komlódtótfalu,10378 m2,gyümölcsös,,,-----,tulajdonos,1/3,"adásvétel,  2000. 12. 18."
+47,34,5,dr. Apáti István,16,Komlódtótfalu,14370 m2,"szántó, erdő",,,-----,tulajdonos,1/3,"adásvétel,  1999. 01. 04."
+48,17,5,dr. Apáti István,17,Komlódtótfalu,72390 m2,erdő,,,-----,tulajdonos,222/10422,"adásvétel,  1999. 01. 04."
+48,34,5,dr. Apáti István,18,Szamosangyalos,1015 m2,szántó,,,-----,tulajdonos,3000/8373,"adásvétel,  1988. 04. 05."
+49,17,5,dr. Apáti István,19,Csengerújfalu,129465 m2,"erdő, járási mintatér",,,-----,tulajdonos,1560/30552,"adásvétel,  2018. 12. 14."
+49,34,5,dr. Apáti István,20,Csengerújfalu,129465 m2,"erdő, járási mintatér",,,-----,tulajdonos,3556/30552,"adásvétel,  2019. 01. 03."
+50,17,5,dr. Apáti István,21,Csengerújfalu,129465 m2,"erdő, járási mintatér",,,-----,tulajdonos,4680/30552,"adásvétel,  2019. 06. 13."
+50,34,5,dr. Apáti István,22,Csengerújfalu,129465 m2,"erdő, járási mintatér",,,-----,tulajdonos,1136/30552,"adásvétel,  2020. 07. 22."
+51,17,5,dr. Apáti István,23,Csengerújfalu,129465 m2,"erdő, járási mintatér",,,-----,tulajdonos,3120/30552,"adásvétel,  2021. 04. 13."
+51,34,5,dr. Apáti István,24,Csenger,117841 m2,"erdő, községi mintatér",,,-----,tulajdonos,-----,"adásvétel,  2020. 02. 20."
+52,17,5,dr. Apáti István,25,Csenger,2202 m2,beépítetlen terület,,,-----,haszonélvező,-----,  2021. 08. 23.
+52,34,5,dr. Apáti István,26,Csenger,2940 m2,-----,"lakóház,","udvar,",-----,haszonélvező,-----,  2021. 08. 23.
+53,17,5,dr. Apáti István,27,Solymár,1380 m2,-----,kivett,hétvégi,-----,tulajdonos,130/1380,ajándék  2022. 09. 27.
+53,34,5,dr. Apáti István,28,Csenger,499547 m2,"legelő, erdő",,,-----,tulajdonos,3600/117798,adásvétel  2024.01.24.
+62,21,6,ANDER BALÁZS,1,ZSELICKISFALUD,4350 m2,zártkerti művelés alól kivett terület és gazdasági épület,gazdasági,épület,zártkert,tulajdonos,1/1,"adásvétel,  2019.11.20."
+62,38,6,ANDER BALÁZS,2,BARCS,1399 m2,"kivett lakóház, udvar","lakóház,",134,"lakóház, udvar",tulajdonos,1/2,"adásvétel,  2017.09.04."
+63,17,6,ANDER BALÁZS,3,Barcs,88 m2,társasházi lakás,lakóház,88,társasházi lakás,tulajdonos,1/4,ajándékozás  2024. 02. 08.
+63,34,6,ANDER BALÁZS,4,Barcs,16 m2,garázs,garázs,16,garázs,tulajdonos,1/4,ajándékozás  2024. 02. 08.
+72,21,7,BALLA GYÖRGY,1,-----,-----,-----,,,-----,-----,-----,-----
+81,21,8,BALLA MIHÁLY,1,ÉRSEKVADKERT,1460 m2,-----,Családi,ház:,családi ház+garázs,tulajdonos,50%,"adás-vétel,  1995"
+90,21,9,BÁNKI ERIK,1,ÜRÖM,-----,-----,Társasházi,lakás,Társasház,tulajdonos,20 %,adásvétel  2004
+90,38,9,BÁNKI ERIK,2,PÓCSA,"0,02 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2023
+91,17,9,BÁNKI ERIK,3,HÍMESHÁZA,"4,1 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2024
+91,34,9,BÁNKI ERIK,4,SZÉKELYSZABAR,138 Ha,szántó,,,-----,tulajdonos,-----,adásvétel  2023
+92,17,9,BÁNKI ERIK,5,PALKONYA,"7,5 Ha",szántó,,,-----,tulajdonos,-----,"adásvétel  2020, 2021"
+92,34,9,BÁNKI ERIK,6,KISJAKABFALVA,"17,3 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2020/2021
+93,17,9,BÁNKI ERIK,7,VILLÁNY,"10,5 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2018/2020/2021
+93,34,9,BÁNKI ERIK,8,MÁROK,31 Ha,szántó,,,-----,tulajdonos,-----,adásvétel  2018/2019/2020/2021
+94,17,9,BÁNKI ERIK,9,KOCSKA,"0,006 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2020
+94,34,9,BÁNKI ERIK,10,LAPÁNCSA,"0,61",szántó,,,-----,tulajdonos,-----,adásvétel  2020
+95,17,9,BÁNKI ERIK,11,MAGYARBÓLY,"2,1 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2020/2021
+95,34,9,BÁNKI ERIK,12,SZAVA,"5,3 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2023
+96,17,9,BÁNKI ERIK,13,DIÓSVISZLÓ,"15,8 Ha",szőlő kataszter,,,-----,tulajdonos,-----,adásvétel  2023
+96,34,9,BÁNKI ERIK,14,NAGYHARSÁNY,"0,09 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2023
+97,17,9,BÁNKI ERIK,15,BOGÁDMINDSZENT,"4,4 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2017-2021
+97,34,9,BÁNKI ERIK,16,ÓZDFALU,"6,9 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2017
+98,17,9,BÁNKI ERIK,17,HEGYSZENTMÁRTON,21 Ha,szántó,,,-----,tulajdonos,-----,adásvétel  2020/2021
+98,34,9,BÁNKI ERIK,18,ZALÁTA,"0,05 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2017.
+107,21,10,BECSÓ ZSOLT,1,PÁSZTÓ,29 m2,-----,,,társasház,tulajdonos,-----,"vétel,  1994.XII.11"
+107,38,10,BECSÓ ZSOLT,2,SALGÓTARJÁN,95 m2,-----,,,társasház,tulajdonos,1/2,"vétel,  2000.III.03"
+108,17,10,BECSÓ ZSOLT,3,SALGÓTARJÁN,18 m2,-----,,,garázs,-----,1/2,"vétel,  2000.III.03"
+108,34,10,BECSÓ ZSOLT,4,RÉVFÜLÖP,527 m2,-----,üdülő,160,családi ház,tulajdonos,1/2,"vétel,  2014.V.16"
+109,17,10,BECSÓ ZSOLT,5,BUDAPEST II. Kerület,93 m2,-----,,,társasház,tulajdonos,1/2,"vétel,  2020"
+109,34,10,BECSÓ ZSOLT,6,PÁSZTÓ,454 m2,-----,lakóház,150,-----,tulajdonos,1/4,"öröklés,  2015.IV.20"
+110,17,10,BECSÓ ZSOLT,7,PÁSZTÓ,945 m2,-----,,,-----,tulajdonos,1/6,"öröklés,  2015.IV.20"
+110,34,10,BECSÓ ZSOLT,8,PÁSZTÓ,"1308 m2, 2523 m2, 4736 m2",szőlő,,,-----,tulajdonos,-----,"vétel,  2009, 2016"
+111,17,10,BECSÓ ZSOLT,9,PÁSZTÓ,814 m2,beépítetlen terület,,,-----,tulajdonos,1/2,"vétel,  2010"
+120,21,11,BENCSIK JÁNOS,1,Békésszentandrás,"2327 m2 (4,94 AK)",szántó,,,-----,tulajdonos,öröklés 1996,ajándékozás  2015
+120,38,11,BENCSIK JÁNOS,2,Békésszentandrás,"386 m2 (0,2 AK)",legelő,,,-----,tulajdonos,1/2,öröklés -  1996
+121,17,11,BENCSIK JÁNOS,3,Békésszentandrás,"21884 m2 (26,7 AK)",szántó,,,-----,tulajdonos,-----,öröklés - 1996  ajándékozás - 2015
+121,34,11,BENCSIK JÁNOS,4,Békésszentandrás,116 510 m2 (118 AK),szántó,,,-----,tulajdonos,20/118,öröklés - 1996  ajándékozás - 2015
+122,17,11,BENCSIK JÁNOS,5,Békésszentandrás,347 893 m2 (618 AK),szántó,,,-----,tulajdonos,273/618,öröklés - 1996  ajándékozás - 2015
+122,34,11,BENCSIK JÁNOS,6,Békésszentandrás,"3957 m2 (8,39 AK)",szántó,,,-----,tulajdonos,-----,öröklés - 1995  ajándékozás - 2015
+123,17,11,BENCSIK JÁNOS,7,Békésszentandrás,29507 m2 (36 AK),szántó,,,-----,tulajdonos,-----,öröklés - 1995  ajándékozás - 2015
+123,34,11,BENCSIK JÁNOS,8,Békésszentandrás,"32725 m2 (39,92 AK)",szántó,,,-----,tulajdonos,-----,öröklés - 1997  ajándékozás - 2015
+124,17,11,BENCSIK JÁNOS,9,Dunaszentmiklós,"17363 m2 (78,75 AK)",szőlő,,,-----,tulajdonos,-----,vétel  2017
+124,34,11,BENCSIK JÁNOS,10,Dunaszentmiklós,"5530 m2 (26,93 AK)",szőlő,,,-----,tulajdonos,-----,vétel -  2017
+125,17,11,BENCSIK JÁNOS,11,Dunaszentmiklós,"4404 m2 (21,45 AK)",szőlő,,,-----,tulajdonos,-----,vétel -  2017
+125,34,11,BENCSIK JÁNOS,12,Szomód,"57725 m2 (281,12 AK)",szőlő,,,-----,tulajdonos,45630/86484,vétel -  2020
+126,17,11,BENCSIK JÁNOS,13,Dunaszentmiklós,"1744 m2 (8,49 AK)",szőlő,,,-----,tulajdonos,-----,vétel -  2023
+136,21,12,Bányai Gábor,1,Jánoshalma,913 m2,-----,Lakóház,145+90,családi ház,tulajdonos 1/2,1/2,"vásárlás,  2003."
+136,38,12,Bányai Gábor,2,Borota,"4,2 ha",gyümölcsös,,,-----,tulajdonos,1/2,"vásárlás, ajándékozás  1991-2008"
+137,17,12,Bányai Gábor,3,Varság,-----,-----,lakóház,67+30,családi ház,haszonélvező,-----,"építés,  2017"
+137,34,12,Bányai Gábor,4,Borota,400 m2,tanya,gazdasági,épület,tanya,tulajdonos,-----,"vásárlás,  2022"
+138,17,12,Bányai Gábor,5,Borota,5354 m2,"gyümölcsös, szőlő",,,-----,tulajdonos,-----,"vásárlás,  2022"
+147,21,13,Dr. Budai Gyula,1,-----,-----,-----,,,-----,-----,-----,-----
+156,21,14,Dr. Budai Gyula,1,-----,-----,-----,,,-----,-----,-----,-----
+165,21,15,BARTOS MÓNIKA ÉVA,1,"BUDAPEST, XIX. KERÜLET",45 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,-----,"ADÁSVÉTEL,  1992. XI. 20."
+165,38,15,BARTOS MÓNIKA ÉVA,2,"BUDAPEST, XIV. KERÜLET",39 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,-----,"ÖRÖKLÉS ÉS MEGVÁLTÁS,  2010. III. 29."
+166,17,15,BARTOS MÓNIKA ÉVA,3,SZENTENDRE,252 m2-ES TELKEN 30 m2-ES NYARALÓ,-----,,,-----,TULAJDONOS,-----,"AJÁNDÉKOZÁS,  1989. XII. 4."
+166,34,15,BARTOS MÓNIKA ÉVA,4,SZENTENDRE,115 m2,TELEK,,,-----,TULAJDONOS,-----,"ADÁSVÉTEL,  2000. V. 28."
+167,17,15,BARTOS MÓNIKA ÉVA,5,"Budapest, XIV. kerület",54 m2,-----,,,Társasház,Tulajdonos,1/2,adásvétel  2023. XII. 5.
+176,21,16,BODÓ SÁNDOR,1,SÁRRÉTUDVARI,710 m2,LAKÓHÁZ + UDVAR,CSALÁDI,HÁZ,CSALÁDI HÁZ,TULAJDONOS,1/2,VÁSÁRLÁS  1991
+176,38,16,BODÓ SÁNDOR,2,DEBRECEN,28 m2,LAKÁS,LAKÁS,28,TÁRSASHÁZI LAKÁS,TULAJDONOS,1/1,VÁSÁRLÁS  2023
+185,21,17,Dr. Brenner Koloman,1,Sopron,601,belterület,,,családi ház,tulajdonos,1/4,"öröklés,  2013.10.11."
+185,38,17,Dr. Brenner Koloman,2,Sopron,1370,szántó,,,-----,tulajdonos,1/2,"öröklés,  2013.10.11."
+194,21,18,DR. BARCZA ATTILA,1,SARRÓD,1662 m2,LAKÓHÁZ UDVAR,LAKÓHÁZ,120,CSALÁDI HÁZ,TULAJDONOS,-----,VÁSÁRLÁS  2004.
+194,38,18,DR. BARCZA ATTILA,2,SARRÓD KÜLTERÜLET,2562 m2,SZÁNTÓ,,,-----,TULAJDONOS,-----,AJÁNDÉKOZÁS  2000.
+195,17,18,DR. BARCZA ATTILA,3,SARRÓD KÜLTERÜLET,2109 m2,SZÁNTÓ,,,-----,TULAJDONOS,-----,AJÁNDÉKOZÁS  2010
+195,34,18,DR. BARCZA ATTILA,4,SOPRON,1359 m2,"LAKÓHÁZ, (146 m2) UDVAR",LAKÓHÁZ,(146,CSALÁDI HÁZ,TULAJDONOS,50 %,"VÁSÁRLÁS  2022,"
+204,21,19,Bakos Bernadett,1,"Budapest, X. kerület",62 m2,kivett,,,társasház,tulajdonos,1/1,vétel  2024
+213,21,20,BEDŐ DÁVID,1,BUDAPEST 11,64 nm2,LAKÓINGATLAN,LAKÓ,HÁZ,TÁRSASHÁZ,TULAJDONOS,1/1,"VÉTEL,  2017"
+222,21,21,BERKI SÁNDOR,1,SALGÓTARJÁN,62 nm,-----,,,TÁRSASHÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  2008"
+231,21,22,Barkóczi Balázs,1,-----,-----,-----,,,-----,-----,-----,-----
+240,21,23,BALASSA PÉTER SÁNDOR,1,SZOMBATHELY,75 nm,-----,,,TÁRSASHÁZ,TULAJDONOS,-----,VÁSÁRLÁS  2010
+240,38,23,BALASSA PÉTER SÁNDOR,2,SZOMBATHELY,49 nm,-----,,,TÁRSASHÁZ,TULAJDONOS,-----,VÁSÁRLÁS  2022
+241,17,23,BALASSA PÉTER SÁNDOR,3,SZOMBATHELY,51 nm,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,VÁSÁRLÁS  2024
+241,34,23,BALASSA PÉTER SÁNDOR,4,SÁRVÁR KÜLTERÜLET LÁNKAPUSZTA,6 ha,SZÁNTÓ,,,"TERMŐFÖLD, MEZŐGAZDASÁGI FÖLDTERÜLET",TULAJDONOS,1/2,ÖRÖKLÉS  2015
+242,17,23,BALASSA PÉTER SÁNDOR,5,SÁRVÁR KÜLTERÜLET LÁNKAPUSZTA,7 ha,"SZÁNTÓ, LEGELŐ",,,"TERMŐFÖLD, MEZŐGAZDASÁGI FÖLDTERÜLET",-----,1/2,ÖRÖKLÉS  2015
+242,34,23,BALASSA PÉTER SÁNDOR,6,TORONY,1000 nm,BELTERÜLET,,,TERMŐFÖLD,TULAJDONOS,-----,ÖRÖKLÉS  2015
+243,17,23,BALASSA PÉTER SÁNDOR,7,TORONY,216 nm,-----,,,CSALÁDI HÁZ,TULAJDONOS,1/1,ÖRÖKLÉS  2015
+243,34,23,BALASSA PÉTER SÁNDOR,8,SÁRVÁR,3 ha 1351 nm,ERDŐ,,,ERDŐ,TULAJDONOS,1/1,VÁSÁRLÁS  2024
+252,21,24,Bencze János,1,Simontornya,808m2,"lakóház, udvar","lakóház,",95m2,családi ház,tulajdonos,1/2,"vétel,  2000.02.04"
+252,38,24,Bencze János,2,Simontornya,883m2,"lakóház, udvar","lakóház,",90m2,családi ház,tulajdonos,1/2,"vétel,  2019.07.19."
+253,17,24,Bencze János,3,Simontornya,5583m2,gyep,,,-----,tulajdonos,-----,"vétel,  2004.09.08."
+253,34,24,Bencze János,4,Simontornya,3003m2,lakótelek,,,-----,tulajdonos,1/2,"vétel,  2017.03.21."
+254,17,24,Bencze János,5,Simontornya,1005m2,szántó,,,-----,tulajdonos,-----,adásvétel  2024.10.01
+254,34,24,Bencze János,6,Simontornya,4991m2,legelő,,,-----,tulajdonos,-----,adásvétel  2024.10.01.
+255,17,24,Bencze János,7,Simontornya,1108m2,szántó,,,-----,tulajdonos,-----,adásvétel  2024.07.09.
+255,34,24,Bencze János,8,Simontornya,1806m2,legelő,,,-----,-----,tulajdonos,adásvétel  2024.07.09.
+256,17,24,Bencze János,9,Simontornya,3731m2,legelő,,,-----,tulajdonos,-----,adásvétel  2024.07.09.
+256,34,24,Bencze János,10,Simontornya,3404m2,erdő,,,-----,tulajdonos,-----,adásvétel  2024.07.09.
+265,21,25,BÓNA ZOLTÁN,1,-----,-----,-----,,,-----,-----,-----,-----
+274,21,26,CZERVÁN GYÖRGY,1,TÁPIÓSZENTMÁRTON,"23,65 Ha",SZÁNTÓ,,,-----,TULAJDONOS,-----,"RÉSZARÁNY, 1994-95 VÁSÁRLÁS, 1998, 2009,"
+274,39,26,CZERVÁN GYÖRGY,2,TÁPIÓBICSKE,1 HA 2680 m2,ERDŐ,,,-----,TULAJDONOS,-----,RÉSZARÁNY  1994-95
+275,17,26,CZERVÁN GYÖRGY,3,TÁPIÓSZENTMÁRTON,2476 m2,-----,LAKÓHÁZ,ÉS,CSALÁDI HÁZ,TULAJDONOS,1/2,"ÖRÖKLÉS,  2014"
+275,34,26,CZERVÁN GYÖRGY,4,TÁPIÓSZENTMÁRTON,2328 m2,TELEK,,,-----,TULAJDONOS,1/12,"ÖRÖKLÉS,  2014"
+284,21,27,CSERESNYÉS PÉTER,1,Nagykanizsa,115 m2,-----,,,társasház,tulajdonos,1/2,"vásárlás,  2007"
+284,38,27,CSERESNYÉS PÉTER,2,Nagykanizsa,17 m2,-----,,,-----,tulajdonos,1/1,ajándék (szülőktől)  2018
+293,21,28,CZUNYINÉ DR BERTALAN JUDIT,1,BOKOD,1828 m2 teleknagyság,családi ház,,,családi ház,Tulajdonos,1/3,(ts. szerz.)  2021.
+293,38,28,CZUNYINÉ DR BERTALAN JUDIT,2,Bokod,1315 m2,"szőlő, fásított terület",,,-----,tulajdonos osztatlan közös,5/10,öröklés  2018.
+294,17,28,CZUNYINÉ DR BERTALAN JUDIT,3,Bokod,1759 m2,tul. lap.: beépítetlen terület,,,-----,tulajdonos / osztatlan közös,6/40,öröklés  2018
+294,34,28,CZUNYINÉ DR BERTALAN JUDIT,4,Bokod,964 m2,kert,,,-----,tulajdonos / osztatlan közös tulajdon,1/4,öröklés  2018.
+295,17,28,CZUNYINÉ DR BERTALAN JUDIT,5,Bokod,1315 m2,kert,,,-----,tulajdonos osztatlan közös tulajdon,5/10,öröklés  2018.
+295,34,28,CZUNYINÉ DR BERTALAN JUDIT,6,Bokod,1899 m2,"szőlő, fásított terület",,,-----,"tulajdonos, osztatlan közös tul.",20/240,öröklés  2018.
+296,17,28,CZUNYINÉ DR BERTALAN JUDIT,7,Bokod,1525 m2,zártkert,,,-----,"tulajdonos, osztatlan közös tul.",16/120,öröklés  2018
+296,34,28,CZUNYINÉ DR BERTALAN JUDIT,8,Bokod,1036 m2,kert -,,,-----,"tulajdonos, osztatlan közös tulajdon",10/40,öröklés  2018
+297,17,28,CZUNYINÉ DR BERTALAN JUDIT,9,Bokod,283 m2,-----,,,-----,tulajdonos / osztatlan közös,10/40,öröklés  2018
+297,34,28,CZUNYINÉ DR BERTALAN JUDIT,10,Bokod,2946 m2,szántó,,,-----,"tulajdonos, osztatlan közös tul.",10/40,öröklés  2018
+298,17,28,CZUNYINÉ DR BERTALAN JUDIT,11,Bokod,2004 m2,szántó,,,-----,"tulajdonos, osztatlan közös tul.",öröklés,öröklés  2018
+298,34,28,CZUNYINÉ DR BERTALAN JUDIT,12,Bokod külterület,5513 m2,szántó,,,-----,tulajdonos osztatlan közös tul,1/27,"öröklés,  2018"
+299,17,28,CZUNYINÉ DR BERTALAN JUDIT,13,Bokod,3563 m2,beépítetlen terület,,,-----,tulajdonos / osztatlan közös t.,6/40,öröklés  2018
+299,34,28,CZUNYINÉ DR BERTALAN JUDIT,14,Bokod,2328 m2,beépítetlen terület,,,-----,"tulajdonos, osztatlan közös t.",11/120,öröklés  2018
+300,17,28,CZUNYINÉ DR BERTALAN JUDIT,15,Bokod,4251 m2,szántó / legelő,,,-----,"tulajdonos, osztatlan közös",10/40.,öröklés  2018
+300,34,28,CZUNYINÉ DR BERTALAN JUDIT,16,"Budapest, VIII. kerület",52 m2,-----,,,társasház,tulajdonos,1/2,adásvétel  2023
+301,17,28,CZUNYINÉ DR BERTALAN JUDIT,17,Bokod,1000 m2,kert,,,-----,tulajdonos /,20/480,öröklés  2018
+310,21,29,CSÖBÖR KATALIN,1,ALSÓZSOLCA,714 m2,-----,"LAKÓHÁZ,",80,-----,tulajdonos,1/2,"vétel,  2000"
+310,38,29,CSÖBÖR KATALIN,2,ALSÓZSOLCA,2160 m2,gyümölcsös,,,-----,tulajdonos,1/1,"VÉTEL,  2004"
+311,17,29,CSÖBÖR KATALIN,3,MISKOLC,626 m2,-----,"LAKÓHÁZ,",160,-----,TULAJDONOS,1/1,"VÉTEL,  2018"
+320,21,30,Csárdi Antal,1,-----,-----,-----,,,-----,-----,-----,-----
+329,21,31,Dr. Cseh Katalin,1,Budapest VIII. kerület,28 m2,kivett,,,társasház,tulajdonos,-----,"adás-vétel,  2015"
+338,21,32,Dr. Cseh Katalin,1,Budapest VIII. kerület,28 m2,kivett,,,társasház,tulajdonos,-----,"adás-vétel,  2015"
+347,21,33,DEMETER ZOLTÁN,1,BÁNHORVÁTI,3647 m2,"MELLÉKÉPÜLET (CSŰR) 125 m2, KIS HÁZ (ROMOS) 58 m2",LAKÓHÁZ,99,-----,TULAJDONOS,1/2,  VÁSÁRLÁS 2013
+347,38,33,DEMETER ZOLTÁN,2,TRIZS,1263 m2,-----,LAKÓHÁZ,120,-----,TULAJDONOS,1/3,ÖRÖKLÉS  2023.
+348,17,33,DEMETER ZOLTÁN,3,TRIZS,2194 m2,-----,ROMOS,LAKÓHÁZ,-----,TULAJDONOS,1/3,ÖRÖKLÉS  2023.
+348,34,33,DEMETER ZOLTÁN,4,TRIZS,"7,5 ha",LEGELŐ,,,-----,TULAJDONOS,1/3,ÖRÖKLÉS  2023.
+357,21,34,Dúró Dóra,1,Budaörs,566,kivett lakóház és udvar,"lakóház,",154,családi ház,tulajdonos,1/2,"vétel,  2012"
+366,21,35,Dankó Béla,1,Kondoros,874 m2,-----,"Lakóház,",gazdasági,-----,Tulajdonos,-----,Vásárlás  (2000.04.14.)
+366,38,35,Dankó Béla,2,Neszmély,4017 m2,szőlő,Gazdasági,épület,-----,-----,1/3,Ajándékozás  (2016.09.15.)
+367,17,35,Dankó Béla,3,Neszmély,60 m2,kivett magánút,,,-----,Tulajdonos,-----,Telekalakítás  (2022.01.07.)
+367,34,35,Dankó Béla,4,Siklód (Hargita megye),1224 m2,-----,Lakóház,(94,-----,Tulajdonos,1/2,Vásárlás  (2017.04.18.)
+368,17,35,Dankó Béla,5,Kardos,7 ha 1090 m2,Szántó,,,-----,Tulajdonos,296/317,Vásárlás (2011.12.21.)  Ajándékozás
+368,35,35,Dankó Béla,6,Kardos,5755 m2,-----,Kivett,lakóház,-----,Tulajdonos,1/2,Ajándékozás  (2020.05.14.)
+369,17,35,Dankó Béla,7,Kondoros,8790 m2,Szántó,,,-----,Haszonbérlő,-----,Bérlet  (2018.12.01.)
+369,34,35,Dankó Béla,8,Kondoros,4 ha 2350 m2,Szántó,,,-----,Tulajdonos,-----,Ajándékozás  (2020.06.11.)
+370,17,35,Dankó Béla,9,Kondoros,2095 m2,-----,,,-----,Tulajdonos,-----,Ajándékozás  (2020.06.11.)
+370,34,35,Dankó Béla,10,Mezőtúr,9 ha 1477 m2,Erdő,,,-----,Tulajdonos,-----,Ajándékozás (2020.06.10.)  Ajándékozás
+371,17,35,Dankó Béla,11,Szarvas,1324 m2,Zártkert,,,-----,Tulajdonos,1/6,Öröklés  (2021.11.16.)
+371,34,35,Dankó Béla,12,Kondoros,63 m2,-----,Lakás,(63m2),Társasház,Tulajdonos,1/4,Öröklés  (2021.11.16.)
+372,17,35,Dankó Béla,13,Kondoros,7 ha 3955 m2,Szántó,,,-----,Tulajdonos,-----,Öröklés (2021.11.16.)  Ajándékozás
+372,35,35,Dankó Béla,14,Kondoros,1 ha 2918 m2,Szántó,,,-----,Tulajdonos,-----,Öröklés (2021.11.16.)  Ajándékozás
+373,17,35,Dankó Béla,15,Kondoros,6490 m2,Szántó,,,-----,Tulajdonos,-----,Öröklés (2021.11.16.)  Ajándékozás
+373,35,35,Dankó Béla,16,Kondoros,8881 m2,Szántó,,,-----,Tulajdonos,-----,Öröklés (2021.11.16.)  Ajándékozás
+374,17,35,Dankó Béla,17,Kondoros,17 ha 8801 m2,Erdő,,,-----,Tulajdonos,132840/134267220,Öröklés  (2021.11.16.)
+374,34,35,Dankó Béla,18,Csabacsűd,14 ha 2238 m2,Legelő,,,-----,Tulajdonos,151/42876,Öröklés  (2021.11.16.)
+375,17,35,Dankó Béla,19,Kondoros,1559 m2,Beépítetlen terület,,,-----,Tulajdonos,-----,Vásárlás  (2024.07.13.)
+384,21,36,Dudás Róbert,1,Mátraballa,650 nm,lakóház,lakóház,100,családi ház,tulajdonos,1/2,vásárlás  1997
+384,38,36,Dudás Róbert,2,Mátraballa,353 nm,lakóház,lakóház,kb.,családi ház,tulajdonos,-----,vásárlás  2024
+393,21,37,Dócs Dávid,1,Cserháthaláp 109,1363m²,"Lakóház, udvar","lakóház,",100,lakóingatlan,tulajdonos,1/2,"adásvétel,  2015.03.11."
+393,38,37,Dócs Dávid,2,Cserháthaláp 114,1500m²,"lakóház, udvar",",",70,lakóház,tulajdonos,1/2,adásvétel  2021.06.
+394,17,37,Dócs Dávid,3,Cserháthaláp 049/4 hrsz.,80021m²,erdő,,,-----,tulajdonos,1300/3601,"adásvétel,  2020.02.01."
+394,34,37,Dócs Dávid,4,Cserháthaláp 049/2 hrsz.,84420m²,erdő,,,-----,tulajdonos,2600/3799,"adásvétel,  2020.02.01."
+395,17,37,Dócs Dávid,5,Cserháthaláp 049/1 hrsz.,37606m2,erdő,,,-----,tulajdonos,1490/1692,"adásvétel,  2020.05.07."
+395,34,37,Dócs Dávid,6,Cserháthaláp 055/4 hrsz.,5519m²,erdő,,,-----,tulajdonos,-----,"adásvétel,  2020.05.07."
+396,17,37,Dócs Dávid,7,Cserháthaláp 0166/5 hrsz.,681m²,legelő,,,-----,tulajdonos,-----,"adásvétel,  2020.02.01."
+396,34,37,Dócs Dávid,8,Cserháthaláp 03/5 hrsz.,37253m²,erdő,,,-----,tulajdonos,52/100,"adásvétel,  2022.06."
+397,17,37,Dócs Dávid,9,Cserháthaláp 17,1608m²,"lakóház, udvar",,,-----,tulajdonos,1/2,"adásvétel,  2020.01.08."
+397,34,37,Dócs Dávid,10,Szügy 114,442m²,"lakóház, udvar",,,-----,tulajdonos,1/2,"ajándékozás,  2020.03.13."
+398,17,37,Dócs Dávid,11,Cserháthaláp 039/1 hrsz.,3474m²,"gazdasági épület, udvar",,,-----,tulajdonos,-----,"adásvétel,  2012.03.22."
+398,34,37,Dócs Dávid,12,Cserháthaláp 039/2,51957m²,"szántó, legelő",,,-----,tulajdonos,5058/5654,"adásvétel,  2024.07.05."
+399,17,37,Dócs Dávid,13,Cserháthaláp 023 hrsz.,25486m²,"szántó, rét, legelő",,,-----,tulajdonos,-----,"adásvétel, csere,  2012.02.15.-2017.06.26."
+399,34,37,Dócs Dávid,14,Cserháthaláp 024/2 hrsz.,16012m²,szántó,,,-----,tulajdonos,2516/2567,"adásvétel,  2012.04.12."
+400,17,37,Dócs Dávid,15,Cserháthaláp 040 hrsz.,23792m²,"erdő, fás terület",,,-----,tulajdonos,-----,"adásvétel, csere,  2014.02.21-2022.10."
+400,34,37,Dócs Dávid,16,Cserháthaláp 041 hrsz.,60100m²,"szántó, legelő",,,-----,tulajdonos,4754/4765,"csere,  2013.09.26-2016.09.01."
+401,17,37,Dócs Dávid,17,Cserháthaláp 042 hrsz.,8898m²,"erdő, legelő",,,-----,tulajdonos,-----,csere  2014.02.21.
+401,34,37,Dócs Dávid,18,Cserháthaláp 044 hrsz.,24518m²,szántó,,,-----,tulajdonos,2842/2990,"csere,  2014.04.18."
+402,17,37,Dócs Dávid,19,Cserháthaláp 045 hrsz.,40973m²,"szántó, erdő, legelő",,,-----,tulajdonos,-----,"adásvétel, csere  2013.03.19."
+402,34,37,Dócs Dávid,20,Cserháthaláp 099/1 hrsz.,6781m²,erdő,,,-----,tulajdonos,1/2,"csere,  2014.03.26."
+403,17,37,Dócs Dávid,21,Cserháthaláp 0117/3 hrsz.,4122m²,legelő,,,-----,tulajdonos,-----,"csere,  2014.02.25."
+403,34,37,Dócs Dávid,22,Cserháthaláp 0119/1 hrsz.,6000m²,legelő,,,-----,tulajdonos,-----,"csere,  2012.10.19."
+404,17,37,Dócs Dávid,23,Cserháthaláp 0119/2 hrsz.,6000m²,erdő,,,-----,tulajdonos,-----,"csere,  2013.09.09."
+404,34,37,Dócs Dávid,24,Cserháthaláp 0122 hrsz.,2100m²,erdő,,,-----,tulajdonos,-----,"csere,  2014.02.25."
+405,17,37,Dócs Dávid,25,Cserháthaláp 0123/1 hrsz.,75148m²,szántó,,,-----,tulajdonos,-----,"adásvétel,  2017.07.26."
+405,34,37,Dócs Dávid,26,Cserháthaláp 18,1430m²,"lakóház, udvar",,,-----,tulajdonos,-----,"adásvétel,  2022.09.20."
+406,17,37,Dócs Dávid,27,Cserháthaláp 0117/1 hrsz.,6361m²,legelő,,,-----,tulajdonos,-----,"adásvétel,  2020.05.07."
+406,34,37,Dócs Dávid,28,Cserháthaláp 0117/2 hrsz.,18288m²,erdő,,,-----,tulajdonos,-----,"adásvétel,  2020.05.07."
+407,17,37,Dócs Dávid,29,Cserháthaláp 0109/2,6486m²,erdő,,,-----,tulajdonos,-----,"adásvétel,  2021"
+407,34,37,Dócs Dávid,30,Cserháthaláp 0107,4294m²,erdő,,,-----,tulajdonos,1/1,adásvétel/csere  2022-2024
+408,17,37,Dócs Dávid,31,Cserháthaláp 0112,14496m²,erdő,,,-----,tulajdonos,1/2,"adásvétel,  2020"
+408,34,37,Dócs Dávid,32,Cserháthaláp 091/4 hrsz.,4388m²,erdő,,,-----,tulajdonos,-----,adásvétel  2023.10.
+409,17,37,Dócs Dávid,33,Cserháthaláp 091/5 hrsz.,4046m²,erdő,,,-----,tulajdonos,-----,adásvétel  2023.10.
+409,34,37,Dócs Dávid,34,Cserháthaláp 052 hrsz.,906m²,erdő,,,-----,tulajdonos,-----,adásvétel  2023.10.
+410,17,37,Dócs Dávid,35,Cserháthaláp 084 hrsz.,6079m²,legelő,,,-----,tulajdonos,-----,adásvétel  2023.10.
+410,34,37,Dócs Dávid,36,Cserháthaláp 0103 hrsz.,247514m²,erdő,,,-----,tulajdonos,52/100,adásvétel  2019-2023
+411,17,37,Dócs Dávid,37,Cserháthaláp 0105/2 hrsz.,22191m²,erdő,,,-----,tulajdonos,501/10000,adásvétel  2023.11.
+411,34,37,Dócs Dávid,38,Cserháthaláp 0102/2 hrsz.,37172m²,legelő,,,-----,tulajdonos,550/839,adásvétel  2023
+412,17,37,Dócs Dávid,39,Cserháthaláp 049/6 hrsz.,535705m²,erdő,,,-----,tulajdonos,57/100,adásvétel  2023.
+412,34,37,Dócs Dávid,40,Cserháthaláp 0111 hrsz.,2828m²,legelő,,,-----,tulajdonos,-----,adásvétel  2023
+413,17,37,Dócs Dávid,41,Cserháthaláp 0114 hrsz.,37000m²,erdő,,,-----,tulajdonos,867/1669,adásvétel  2023
+413,34,37,Dócs Dávid,42,Cserháthaláp 055/3 hrsz.,49400m²,legelő,,,-----,tulajdonos,96/100,"adásvétel, csere  2017-2022"
+414,17,37,Dócs Dávid,43,Cserháthaláp 099/2 hrsz.,12933 m²,erdő,,,-----,tulajdonos,-----,"adásvétel, csere  2021-2023"
+414,34,37,Dócs Dávid,44,Cserháthaláp 095 hrsz.,81948m²,"szántó, erdő",,,-----,tulajdonos,-----,adásvétel  2023.04.
+415,17,37,Dócs Dávid,45,Cserháthaláp 098/5 hrsz.,8496m²,"szántó, erdő",,,-----,tulajdonos,-----,adásvétel  2023.04.
+415,34,37,Dócs Dávid,46,Cserháthaláp 098/7 hrsz.,14096m²,szántó,,,-----,tulajdonos,-----,adásvétel  2023.04.
+416,17,37,Dócs Dávid,47,Cserháthaláp 098/4 hrsz.,12502m²,szántó,,,-----,tulajdonos,-----,adásvétel  2023.04.
+416,34,37,Dócs Dávid,48,Cserháthaláp 098/3 hrsz.,12498m²,szántó,,,-----,tulajdonos,755/1300,adásvétel  2023.04.
+417,17,37,Dócs Dávid,49,Cserháthaláp 099/3 hrsz.,17880m²,erdő,,,-----,tulajdonos,-----,adásvétel  2023
+417,34,37,Dócs Dávid,50,Cserháthaláp 099/4 hrsz.,8795m²,erdő,,,-----,tulajdonos,-----,adásvétel  2023
+418,17,37,Dócs Dávid,51,Cserháthaláp 0102/5 hrsz.,8995m²,erdő,,,-----,tulajdonos,-----,adásvétel  2023
+418,34,37,Dócs Dávid,52,Cserháthaláp 0131/22 hrsz.,18794m²,szántó,,,-----,tulajdonos,-----,adásvétel  2023
+419,17,37,Dócs Dávid,53,Cserháthaláp 0125/25,6513m2,erdő,,,-----,tulajdonos,-----,adásvétel  2024
+419,34,37,Dócs Dávid,54,"Cserháthaláp 61/2/A, 61/2/B, 61/2/C, 61/2",3702m2,-----,,,-----,-----,1/10,adásvétel  2024.09
+429,21,38,DR. DÁVID FERENC,1,"BUDAPEST, XIV.",72 négyzetméter,LAKÁSTULAJDON,,,TÁRSASHÁZ,TULAJDONOS,1/2,"VÉTEL,  2008."
+429,38,38,DR. DÁVID FERENC,2,"BUDAPEST, XIV.",73 négyzetméter,LAKÁSTULAJDON,,,TÁRSASHÁZ,TULAJDONOS,1/2,"VÉTEL,  2022."
+430,17,38,DR. DÁVID FERENC,3,LEÁNYFALU,TELEK: 2.000 négyzetméter,ÜDÜLŐTULAJDON,ÜDÜLŐ,(2,ÜDÜLŐ,TULAJDONOS,1/2,"VÉTEL,  2018."
+439,21,39,DR. DEMETER ANDRÁS,1,KISKUNHALAS,120 NM,KIVETT ÚT,,,ÚT,TULAJDONOS,50/120,ADÁSVÉTEL  2019
+439,38,39,DR. DEMETER ANDRÁS,2,PIRTÓ,5.789 NM,KIVETT TANYA ÉS GYÜMÖLCSÖS,,,MEZŐGAZDASÁGI TERÜLET,-----,1/3,ADÁSVÉTEL  2011
+440,17,39,DR. DEMETER ANDRÁS,3,PIRTÓ,1772 NM,GAZDASÁGI ÉPÜLET ÉS UDVAR,PINCE,20,-----,TULAJDONOS,1/3,ADÁSVÉTEL  1996
+440,34,39,DR. DEMETER ANDRÁS,4,PIRTÓ,5752 NM,"KIVETT TANYA, LEGELŐ ÉS SZÁNTÓ",TANYA,100,MEZŐGAZDASÁGI TERÜLET,TULAJDONOS,1/3,  2013
+449,21,40,DUNAI MÓNIKA,1,"BUDAPEST, 17. Kerület",1/4 RÉSZ TULAJDON 1726 m2 TELEKBŐL,KIVETT,lakóház,1/4,CSALÁDI HÁZ,1/4 RÉSZBEN TULAJDONOS,1/4,ÖRÖKLÉS  2022.
+458,21,41,Erdős Norbert Zoltán,1,Békéscsaba,"2317 nm telek, 190 nm lakóház",-----,,,családi ház,tulajdonos,-----,vétel  2014.
+458,38,41,Erdős Norbert Zoltán,2,Békéscsaba,"530 nm telek, 215 nm lakóház",-----,,,családi ház,tulajdonos,1/2,vétel  2022.
+459,17,41,Erdős Norbert Zoltán,3,Zamárdi,79 nm,-----,,,családi ház,tulajdonos,1/3,vétel  2021
+459,34,41,Erdős Norbert Zoltán,4,Budapest VI. kerület,112 nm,-----,,,társasház,tulajdonos,1/2,vétel  2017.
+468,21,42,Erős Gábor,1,Esztergom,146 m2,-----,lakóház,86,családi ház,tulajdonos,-----,adás vétel  2005.08.25.
+468,38,42,Erős Gábor,2,Esztergom,701 m2,beépítetlen terület,,,-----,tulajdonos,-----,adás vétel  2010.05.26.
+469,17,42,Erős Gábor,3,Esztergom,1823 m2,zártkert művelés alól kivett terület,gazdasági,épület,-----,tulajdonos,-----,adás vétel  2017. 05.05.
+469,34,42,Erős Gábor,4,Esztergom,559 m2 telken 150/480 tulajdonjog,-----,"lakóház,",gazdasági,-----,tulajdonos,-----,ajándékozási szerződés (szülőktől)  2021.12.29.
+470,17,42,Erős Gábor,5,Esztergom,559 m2 telken 330/480 tulajdonjog,-----,"lakóház,",gazdasági,-----,tulajdonos,-----,adás vétel  2023.08.06.
+479,21,43,Farkas Sándor,1,Szentes,2.673 m2,"kivett, udvar",170,m2,családi ház,tulajdonos,1/2,vásárlás  2009
+479,38,43,Farkas Sándor,2,Szentes,368 m2,kivett beépítetlen terület,,,-----,tulajdonos,1/2,vásárlás  2009
+480,17,43,Farkas Sándor,3,Szentes,1745 m2,kivett beépítetlen terület,,,-----,tulajdonos,1/2,vásárlás  2009
+480,34,43,Farkas Sándor,4,Fábiánsebestyén,"116,42 ha",szántó,,,-----,tulajdonos,1/1,kárpótlás - vásárlás  1992-
+489,21,44,Farkas Sándor,1,Szentes,2.673 m2,"kivett, udvar",170,m2,családi ház,tulajdonos,1/2,vásárlás  2009
+489,38,44,Farkas Sándor,2,Szentes,368 m2,kivett beépítetlen terület,,,-----,tulajdonos,1/2,vásárlás  2009
+490,17,44,Farkas Sándor,3,Szentes,1745 m2,kivett beépítetlen terület,,,-----,tulajdonos,1/2,vásárlás  2009
+490,34,44,Farkas Sándor,4,Fábiánsebestyén,"116,42 ha",szántó,,,-----,tulajdonos,1/1,kárpótlás - vásárlás  1992-
+499,21,45,Dr FAZEKAS SÁNDOR,1,KARCAG,600 m2,TELEK,lakóház,"105,87",TELEK,TUL,1/2 1990,AJÁND. TELEK TUL  1980
+499,38,45,Dr FAZEKAS SÁNDOR,2,KARCAG,3252 m2,ZÁRTKERT KUNYHÓ 12 m2,,,-----,TUL,1/1,VÉTEL  2007.01.02
+500,17,45,Dr FAZEKAS SÁNDOR,3,KARCAG,31.826 m2,SZÁNTÓ,,,-----,TUL 1/2,TUL 1/2,VÉTEL  1995.04.25
+500,34,45,Dr FAZEKAS SÁNDOR,4,KARCAG,69.100. m2,SZÁNTÓ,,,-----,TUL,1/2,VÉTEL  1995.06.28
+501,17,45,Dr FAZEKAS SÁNDOR,5,KARCAG,5268 m2,SZÁNTÓ,,,-----,TUL,TUL 1/3,VÉTEL:  2001. X. 24.
+501,34,45,Dr FAZEKAS SÁNDOR,6,BUDAPEST IX. FERENC KRT 3,47 m2,TÁRSASHÁZ,,,-----,TUL,22/100,VÉTEL:  2004. VI. 22
+502,17,45,Dr FAZEKAS SÁNDOR,7,KARCAG,12.700. m2,SZÁNTÓ,,,-----,TUL,1/2,AJÁNDÉKOZÁS 
+502,34,45,Dr FAZEKAS SÁNDOR,8,KARCAG,12.770 m2,SZÁNTÓ,,,-----,TUL,1000/27.214-ED RÉSZE,ÖRÖKLÉS 
+511,21,46,Dr. FÓNAGY JÁNOS,1,DUBICSÁNY,1145 m2,MŰVELÉS ALÓL KIVETT LEGELŐ,PINCELYUK,20,VOLT PINCE,TULAJDONOS,1/2,KÖZÖS TULAJDON MEGSZÜNTETÉSE  1981
+521,21,47,FONT SÁNDOR,1,Soltvadkert,321 m2,üdülőterület,,,magánüdülő,tulajdonos 1/1,-----,"1991, 2018 vásárlás "
+521,38,47,FONT SÁNDOR,2,Soltvadkert,1405 m2,"kivett gazdasági épület, udvar",gazdasági,épület,"raktár, tárolóhely",tulajdonos,1/1,vásárlás  2021
+522,17,47,FONT SÁNDOR,3,Soltvadkert,1193 m2,"kivett, beépítetlen terület",üres,telek,"üres telek, közművesített",tulajdonos 1/1,1/1,vásárlás  2021
+522,34,47,FONT SÁNDOR,4,Balatonföldvár,63 m2,lakóingatlan,,,társasház,tulajdonos,1/2,vásárlás  2016
+523,17,47,FONT SÁNDOR,5,Soltvadkert,"3,865 ha",szőlő,,,-----,tulajdonos,1/1,"vétel  1994, 2001, 2012"
+523,34,47,FONT SÁNDOR,6,Soltvadkert,"0,453 ha",erdő,,,-----,tulajdonos,1/1,ajándékozás  2004
+524,17,47,FONT SÁNDOR,7,Soltvadkert,"0,199 ha",erdő,,,-----,tulajdonos,1/1,vétel  2004
+524,34,47,FONT SÁNDOR,8,Soltvadkert,"0,477 ha",erdő,,,-----,tulajdonos,1/1,vétel  2004
+525,17,47,FONT SÁNDOR,9,Soltvadkert,"0,188 ha",erdő,,,-----,tulajdonos,1/1,vétel  2008
+525,34,47,FONT SÁNDOR,10,Soltvadkert,"0,368 ha",erdő,,,-----,tulajdonos,1/1,vétel  2008
+526,17,47,FONT SÁNDOR,11,Soltvadkert,"0,376 ha",erdő,,,-----,tulajdonos,1/1,vétel  2009
+526,34,47,FONT SÁNDOR,12,Soltvadkert,"9,604 ha",szántó,,,-----,tulajdonos,1/1,"vétel  2009, 2013"
+527,17,47,FONT SÁNDOR,13,Soltvadkert,"1,073 ha",legelő,,,-----,tulajdonos,1/1,hagyaték  2020
+527,34,47,FONT SÁNDOR,14,Soltvadkert,"0,409 ha",szőlő,,,-----,tulajdonos,1/1,hagyaték  2020
+528,17,47,FONT SÁNDOR,15,Imrehegy,"0,779 ha",gyümölcsös,,,-----,tulajdonos,1/1,hagyaték  2020
+528,34,47,FONT SÁNDOR,16,Imrehegy,"0,425 ha",tanya,,,-----,tulajdonos,1/3,hagyaték  2020
+529,17,47,FONT SÁNDOR,17,Imrehegy,"10,244 ha",erdő,,,-----,tulajdonos,1/3,hagyaték  2020
+538,21,48,Földi László,1,Cegléd,11494 m2,szántó,,,-----,tulajdonos,1/1,"adásvétel,  2010"
+538,38,48,Földi László,2,Cegléd,11494 m2,szántó,,,-----,tulajdonos,1/1,"adásvétel,  2010"
+539,17,48,Földi László,3,Cegléd,11494 m2,szántó,,,-----,tulajdonos,1/1,"adásvétel,  2022"
+539,34,48,Földi László,4,Cegléd,170 447 m2 (osztatlan közös tulajdon: 10 000 m2),gyümölcsös,,,-----,tulajdonos,10088/171498,"adásvétel,  2000"
+540,17,48,Földi László,5,Cegléd,149 319 m2 (osztatlan közös tulajdon: 34 000 m2),gyümölcsös,,,-----,tulajdonos (osztatlan közös tulajdon),70080/298638,"adásvétel,  2007"
+549,21,49,FÖLDESI GYULA,1,Budapest XXIII. kerület,98 nm,-----,,,Társasház,Tulajdonos 100 %,-----,2008 1/2 adás-vétel  2020 1/2 ajándékozás
+558,21,50,Dr. Ferencz Orsolya,1,Budapest VIII. ker.,36 m2,-----,,,társasház,tulajdonos,-----,"ajándékozás,  2001, 2013"
+558,38,50,Dr. Ferencz Orsolya,2,Budapest VIII. ker.,127 m2,-----,,,társasház,tulajdonos,-----,"ajándékozás,  2001, 2013"
+559,17,50,Dr. Ferencz Orsolya,3,Budapest VIII. ker.,45 m2,-----,,,társasház,tulajdonos,1/2,"adásvétel,  1994"
+559,34,50,Dr. Ferencz Orsolya,4,Budapest VIII. ker.,19 m2,-----,,,társasház,tulajdonos,1/2,"adásvétel,  1994"
+560,17,50,Dr. Ferencz Orsolya,5,Szaknyér,4063 m2,udvar,"üdülő,",25,lakóház,tulajdonos,-----,"ajándékozás,  2001, 2013"
+560,34,50,Dr. Ferencz Orsolya,6,Szaknyér,2391,udvar,"üdülő,",100,lakóház,tulajdonos,-----,"ajándékozás,  2001, 2013 ill. adásvétel, 2021"
+561,17,50,Dr. Ferencz Orsolya,7,Budapest VIII.,69 m2,-----,,,társasház,tulajdonos,"282,5/10000","adásvétel,  1994, 2016"
+561,34,50,Dr. Ferencz Orsolya,8,Budapest VIII. ker.,85 m2,-----,,,társasház,tulajdonos,1/2,"adásvétel  2008, 2013"
+570,21,51,FARKAS ÖRS,1,MENCSHELY,894 m2,"KIVETT LAKÓHÁZ, UDVAR, GAZDASÁGI ÉPÜLET",,,CSALÁDI HÁZ ÉS UDVAR,TULAJDONOS,1/12,VÉGRENDELETI ÖRÖKLÉS  (2022)
+579,21,52,FARKAS ÖRS,1,MENCSHELY,894 m2,"KIVETT LAKÓHÁZ, UDVAR, GAZDASÁGI ÉPÜLET",,,CSALÁDI HÁZ ÉS UDVAR,TULAJDONOS,1/12,VÉGRENDELETI ÖRÖKLÉS  (2022)
+588,21,53,DR. GURMAI ZITA,1,BUDAPEST XI.,56 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/5 - rész,ÖRÖKLÉS  1981
+588,38,53,DR. GURMAI ZITA,2,BUDAPEST II.,103 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,-----,VÁSÁRLÁS  2009.
+589,17,53,DR. GURMAI ZITA,3,TATABÁNYA,53 m2,-----,,,TÁRSASHÁZ,-----,-----,VÁSÁRLÁS  2022.
+589,34,53,DR. GURMAI ZITA,4,BRÜSSZEL,97 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,-----,VÁSÁRLÁS  2004.
+599,21,54,Gy. Németh Erzsébet,1,Lovasberény,1584 m2,szántó,gazdasági,"épület,",gazdasági épület,tulajdonos,50%,"vásárlás,  1988"
+599,38,54,Gy. Németh Erzsébet,2,Balatonakali,264 m2,üdülőtelek,"üdülő,",40,üdülő,tulajdonos,50%,"vásárlás, öröklés,  2000., 2014."
+608,21,55,Gyurcsány Ferenc,1,Pápa,-----,-----,lakóház,50,társasház,tulajdonos,1/1,"adásvétel,  1995.03.30."
+608,38,55,Gyurcsány Ferenc,2,Kötcse,3295 m2,kivett terület,"lakóház,",267,családi ház,tulajdonos,1/2,"adásvétel,  2009.10.02."
+609,18,55,Gyurcsány Ferenc,3,Budapest II. kerület,2031 m2,kivett terület,társasházi,lakás,"a műszaki engedélyeztetés, a 6 lakásos társasházzá alakítás és az ezt tükröző",tulajdonos,1/2,"telekvétel, a lakás tulajdoni állapotát lásd a 3e)"
+618,21,56,GYOPÁROS ALPÁR,1,CSORNA,-----,-----,"LAKÁS,",58,TÁRSASHÁZ,TULAJDONOS,50%,"AJÁNDÉKOZÁS,  2024."
+627,21,57,GELENCSÉR ATTILA,1,SIÓFOK,72 m2,-----,ÜDÜLŐ,72,TÁRSASHÁZ,HASZONÉLVEZŐ ÉS TULAJDONOS,1/2,ADÁSVÉTEL (2018)  ÉS HAGYATÉK (2020)
+627,38,57,GELENCSÉR ATTILA,2,KAPOSVÁR,720 m2,"LAKÓHÁZ, UDVAR",,,CSALÁDI HÁZ,TULAJDONOS,1/2,HAGYATÉK  2020
+636,21,58,Gulyás Gergely,1,Budapest XI. kerület,"95,3 m2",-----,,,társasház,tulajdonos,1/1 arányban haszonélvezettel terhelten,1/2 1995-ben adásvétel útján  1/2 2012-ben
+636,39,58,Gulyás Gergely,2,Budapest XI. kerület,52 m2,-----,,,társasház,tulajdonos,1/1,"1/2 vétel 2008-ban,  1/2 ajándékozás 2011-ben"
+645,21,59,GRÉCZY ZSOLT,1,SIÓFOK,45 m2,KIVETT,,,TÁRSASHÁZ,TULAJDONOS,1/1,AJÁNDÉK  2006.02.01.
+654,21,60,GELENCSÉR FERENC JÓZSEF,1,-----,-----,-----,,,-----,-----,-----,-----
+663,21,61,Halász János,1,-----,-----,-----,,,-----,-----,-----,-----
+663,38,61,Halász János,2,Debrecen,100 m2 szolgalmi út,-----,,,-----,tulajdonos,-----,vétel  2007.
+664,17,61,Halász János,3,Debrecen,14 m2,-----,,,társasházban,tulajdonos,-----,vétel  1999.
+664,34,61,Halász János,4,Balatonlelle,"52,9 m2",-----,,,társasházban,tulajdonos,-----,vétel  2022
+665,17,61,Halász János,5,Sátoraljaújhely,139 m2,zártkerti ingatlan,,,kivett présház,tulajdonos,-----,vétel  2018.
+674,21,62,dr Hargitai János,1,Nagynyárád,1.210 m2 telek,-----,"lakóház,",150,családi ház,tulajdonos,1/2,"adásvétel/ építés,  1985"
+674,38,62,dr Hargitai János,2,Pécs,-----,-----,"lakóház,",70,társasház,tulajdonos,-----,"adásvétel,  2010"
+675,17,62,dr Hargitai János,3,Nagynyárád,43 m2,belterületi kert,,,-----,haszonélvező,-----,"adásvétel,  1993"
+675,34,62,dr Hargitai János,4,Nagynyárád,4.269 m2,belterületi kert,,,-----,haszonélvező,-----,1999.  adásvétel
+676,17,62,dr Hargitai János,5,Nagynyárád,"1,0020 ha",szántó,,,-----,tulajdonos,-----,"ajándékozás,  2005"
+676,34,62,dr Hargitai János,6,Nagynyárád,"2,7608 ha",szántó,,,-----,tulajdonos,-----,"ajándékozás,  2005"
+677,17,62,dr Hargitai János,7,Nagynyárád,"13,0456 ha",szántó,,,-----,tulajdonos,-----,"ajándékozás,  2005"
+677,34,62,dr Hargitai János,8,Nagynyárád,"2,5283 ha",szántó,,,-----,tulajdonos,-----,"adásvétel,  2003"
+678,17,62,dr Hargitai János,9,Nagynyárád,"1,041 ha",szántó,,,-----,tulajdonos,-----,"adásvétel,  2003"
+678,34,62,dr Hargitai János,10,Nagynyárád,"0,5755 ha",szántó,,,-----,tulajdonos,-----,"adásvétel,  2005"
+679,17,62,dr Hargitai János,11,Nagynyárád,"0,6317 ha",szántó,,,-----,tulajdonos,-----,"ajándékozás,  2005"
+679,34,62,dr Hargitai János,12,Nagynyárád,"1,8495 ha",szántó,,,-----,tulajdonos,-----,"adásvétel,  2003"
+680,17,62,dr Hargitai János,13,Nagynyárád,"0,2530 ha",szántó,,,-----,-----,tulajdonos,"adásvétel,  2003"
+680,34,62,dr Hargitai János,14,Sátorhely,"1,9034 ha",szántó,,,-----,tulajdonos,-----,"ajándékozás,  2005"
+681,17,62,dr Hargitai János,15,Mohács,"0,9724 ha",szántó,,,-----,tulajdonos,-----,"adásvétel,  2003"
+681,34,62,dr Hargitai János,16,Majs,"1,1120 ha",szántó,,,-----,tulajdonos,-----,"adásvétel,  2003"
+682,17,62,dr Hargitai János,17,Nagynyárád,"0,7284 ha",erdő,,,-----,tulajdonos,-----,"ajándékozás,  2005"
+682,34,62,dr Hargitai János,18,Nagynyárád,"3,2000 ha",mocsár,,,-----,tulajdonos,-----,"árverési adásvétel,  2003"
+683,17,62,dr Hargitai János,19,Nagynyárád,"8,9286 ha",-----,,,-----,tulajdonos,556/5000+556/5000,"adásvétel,  2003"
+683,34,62,dr Hargitai János,20,Nagynyárád,"27,6231 ha",erdő,,,-----,tulajdonos,380/15469,"adásvétel,  2003"
+684,17,62,dr Hargitai János,21,Siófok,"37 m2,GK beálló",-----,,,társasház,tulajdonos,-----,"adásvétel,  2016"
+694,21,63,Harrach Péter Pál,1,"Budapest, XIV.",76m2,lakóház,,,társasházi lakás,tulajdonos,-----,"vétel,  1988.06.15."
+694,38,63,Harrach Péter Pál,2,Tahitótfalu,923m2,-----,"lakóház,",83m2,családi ház,tulajdonos,50%,"vétel,  2011.09.28."
+703,21,64,dr. Hende Csaba,1,Szombathely,700 m2,kivett,Lakóház,≈,családi ház,Tulajdonos,1/1,1986: öröklés; 1988: ráépítés; 1996: vétel;
+703,39,64,dr. Hende Csaba,2,Budapest XII. ker.,108 m2,kivett,Lakóházban,1,Társasház,Tulajdonos,1/2,vétel:  2016.
+704,17,64,dr. Hende Csaba,3,Budapest XII. ker,10 m2,-----,,,garázs,tulajdonos,1/2,vétel:  2016.
+704,34,64,dr. Hende Csaba,4,Balatonszemes,53 m2,-----,Lakóházban,1,társasház,Tulajdonos,1/2,vétel  2018:
+713,21,65,Dr. Hiller István,1,Kővágóörs-Pálköve,248 m2,üdülőtelek,"üdülő,",32,hétvégi ház és udvar,tulajdonos,1/2,"öröklés,  1994"
+722,21,66,Horváth István,1,Szekszárd,56 m2,-----,,,társasház,tulajdonos,-----,"vétel,  2007 máj. 17"
+722,38,66,Horváth István,2,Nagydorog,148 m2,-----,gazdasági,épület,borospince,tulajdonos,-----,"vétel,  1987"
+723,17,66,Horváth István,3,Nagydorog,"3756 m2 telek, 160 m2 lakóházzal",-----,,,családi ház,tulajdonos,-----,"vétel,  2015 aug. 13."
+723,34,66,Horváth István,4,Nagydorog,2359 m2,szőlő,,,-----,tulajdonos,50%,"ajándékozás,  2002"
+724,17,66,Horváth István,5,Bikács,"6,3515 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2016"
+724,34,66,Horváth István,6,Bikács,"12,0180 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2016"
+725,17,66,Horváth István,7,Bikács,"4,511",szántó,,,-----,tulajdonos,-----,"vétel,  2017"
+725,34,66,Horváth István,8,Bikács,"0,64477 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2017"
+726,17,66,Horváth István,9,Bikács,"1,1061 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2021"
+726,34,66,Horváth István,10,Nagydorog,"0,5859 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2020"
+727,17,66,Horváth István,11,Nagydorog,"1,8922 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2017"
+727,34,66,Horváth István,12,Bikács,"4,9301 ha",szántó,,,-----,tulajdonos,-----,"vétel,  2023"
+728,17,66,Horváth István,13,Bikács,1010 m2; 65 m2 lakóházzal,-----,,,családi ház,-----,-----,"vétel,  2024"
+737,21,67,Dr. Hoppál Péter,1,Budapest III.,-----,-----,lakás,+,"társasház, teremgarázs",tulajdonos,1/2,"adásvétel,  2020"
+737,38,67,Dr. Hoppál Péter,2,Pécs,1094 nm,-----,lakóház,206,családi ház,tulajdonos,1/2,"adásvétel,  2021"
+738,17,67,Dr. Hoppál Péter,3,Tésenfa,5056 nm,-----,kivett,"lakóház,",-----,tulajdonos,-----,"ajándékozás,  2022"
+738,34,67,Dr. Hoppál Péter,4,Budapest IX.,-----,-----,lakás,+,"társasház, alagsori beálló",tulajdonos,-----,"adásvétel,  2022"
+739,17,67,Dr. Hoppál Péter,5,Pécs,-----,-----,"lakás,",teremgarázs,"társasházi lakás, teremgarázs",tulajdonos,1/2,adásvétel  2003
+748,21,68,dr. Harangozó Tamás Attila,1,Gerjen,38469 m2,"gyep, legelő",,,termőföld,tulajdonos,2/38,"adásvétel,  2004"
+748,38,68,dr. Harangozó Tamás Attila,2,Gerjen,15605 m2,"gyep, legelő",,,termőföld,tulajdonos,2/38,"adásvétel,  2004"
+749,17,68,dr. Harangozó Tamás Attila,3,Csipkerek,4320 m2,-----,,,zártkert,tulajdonos,1/2,"ajándékozás,  1982"
+749,34,68,dr. Harangozó Tamás Attila,4,Bátaszék,606 m2,-----,,,beépítetlen telek,tulajdonos,1/3,"öröklés,  2009"
+758,21,69,HIDVÉGHI BALÁZS,1,"BUDAPEST, 12.",49 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,02 %,"VÁSÁRLÁS,  2017"
+758,38,69,HIDVÉGHI BALÁZS,2,"BUDAPEST, 12.",14 m2,-----,társasházi,garázs,garázs,tulajdonos,50 %,"vásárlás,  2017"
+759,17,69,HIDVÉGHI BALÁZS,3,"BUDAPEST, 12.",22 m2,-----,társasházi,garázs,garázs,tulajdonos,50 %,"vásárlás,  2017"
+759,34,69,HIDVÉGHI BALÁZS,4,"BUDAPEST, 1.",100 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,50 %,"VÁSÁRLÁS,  1992"
+760,17,69,HIDVÉGHI BALÁZS,5,"BUDAPEST, 1.",16 m2,-----,TÁRSASHÁZI,GARÁZS,GARÁZS,TULAJDONOS,50 %,"AJÁNDÉKOZÁS,  2011"
+760,34,69,HIDVÉGHI BALÁZS,6,SIÓFOK,912 m2 (ház + udvar),-----,,,CSALÁDI HÁZ,TULAJDONOS,50 %,"AJÁNDÉKOZÁS,  2011"
+769,21,70,Hollik István,1,Budapest I. kerület,57nm,-----,,,társasház,tulajdonos,50%,"családon belüli ajándékozás,  2012"
+778,21,71,HORNUNG ÁGNES ANNA,1,"Budapest, XIII. kerület",50 m2,-----,,,Társasház,Tulajdonos,-----,"Adásvétel,  2009"
+787,21,72,HORNUNG ÁGNES ANNA,1,"Budapest, XIII. kerület",50 m2,-----,,,Társasház,Tulajdonos,-----,"Adásvétel,  2009"
+796,21,73,dr HADHÁZY ÁKOS,1,SZEKSZÁRD,140 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,50%,VÁSÁRLÁS  2019
+796,38,73,dr HADHÁZY ÁKOS,2,FÁCÁNKERT,5000 m2,SZŐLŐ,,,-----,TULAJDONOS,-----,VÁSÁRLÁS  1988
+797,17,73,dr HADHÁZY ÁKOS,3,BÉCS,30 m2,-----,LAKÁS,30,TÁRSASHÁZ,TULAJDONOS,50 %,VÁSÁRLÁS  2022
+806,21,74,Herczeg Tamás,1,Békéscsaba,200 m2,-----,lakóház,130,osztatlan tulajdonú lakóház,tulajdonos,-----,"vétel,  1994"
+806,38,74,Herczeg Tamás,2,Békéscsaba,36 m2,-----,lakóház,36,társasházi lakás,tulajdonos,-----,"vétel,  2004"
+807,17,74,Herczeg Tamás,3,Békéscsaba,450,-----,lakóház,140nm,-----,tulajdonos,1/2,vétel  2005
+807,34,74,Herczeg Tamás,4,Pusztaföldvár,7 ha,szántóföld,,,szántó,tulajdonos,-----,"öröklés,  2017."
+808,17,74,Herczeg Tamás,5,Medgyesbodzás,3971 m2,"lakóház, udvar",ház,40,ház,tulajdonos,1/4,"öröklés,  2017."
+808,34,74,Herczeg Tamás,6,Medgyesbodzás,3 ha,szántóföld,,,szántó,tulajdonos,-----,"öröklés,  2006."
+809,17,74,Herczeg Tamás,7,Békéscsaba,3.8 ha,szántó,,,-----,tulajdonos,-----,vétel  2023
+809,34,74,Herczeg Tamás,8,Köröstarcsa,16 ha,szántó,,,-----,tulajdonos,2/3,vétel  2023
+818,21,75,Héjj Dávid Ádám,1,Diósd,1440 m2,-----,"lakóház,",360,családi ház,tulajdonos,-----,"adásvétel,  2015 és 2024 (1/2 rész kivásárlása)"
+818,38,75,Héjj Dávid Ádám,2,Somlóvásárhely,2000 m2,szőlő,,,-----,tulajdonos,-----,"adásvétel,  2011"
+827,21,76,HERCZEG ZSOLT,1,MEZŐTÚR,800 m2,"MŰVELÉS ALÓL KIVETT TERÜLET, KIVETT HÉTVÉGI HÁZ","ÜDÜLŐ,",54,KIVETT HÉTVÉGI HÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  2001.03.22."
+836,21,77,Hajnal Miklós,1,-----,-----,-----,,,-----,-----,-----,-----
+845,21,78,HEGEDÜS ANDREA,1,MISKOLC,637 m2,BELTERÜLET,"LAKÓHÁZ,",102,CSALÁDI HÁZ,"TULAJDONOS, HASZONÉLVEZETTEL T.",1/1,"ÖRÖKLÉS,  2008."
+845,38,78,HEGEDÜS ANDREA,2,MISKOLC,44 m2,BELTERÜLET,"LAKÓHÁZ,",44,TÁRSASHÁZ,TULAJDONOS,1/1,"ADÁS-VÉTEL,  2022."
+846,17,78,HEGEDÜS ANDREA,3,MISKOLC,649 m2,BELTERÜLET,,,ÉPÍTÉSI TELEK,TULAJDONOS,1/1,"ÖRÖKLÉS,  2008."
+855,21,79,DR. HÖRCSIK RICHÁRD,1,SÁROSPATAK,1.340 m2,Belterületi telek,"Lakóház,",218,-----,Tulajdonos,1/2,"vásárlás,  1995"
+865,21,80,HORVÁTH LÁSZLÓ,1,EGER,125 m2,-----,,,CSALÁDI HÁZ,TULAJDONOS,1/2,"VÁSÁRLÁS,  2004."
+865,38,80,HORVÁTH LÁSZLÓ,2,KISFÜZES,3522 m2,KIVETT LAKÓHÁZ UDVAR,"LAKÓHÁZ,",115,-----,TULAJDONOS,-----,"VÁSÁRLÁS,  2022."
+866,17,80,HORVÁTH LÁSZLÓ,3,KISFÜZES,1 HA,SZÁNTÓ,,,-----,TULAJDONOS,-----,"VÁSÁRLÁS,  2017."
+866,34,80,HORVÁTH LÁSZLÓ,4,KISFÜZES,1700 m2,BEÉPÍTETLEN TERÜLET,,,-----,TULAJDONOS,-----,"VÁSÁRLÁS,  2021."
+867,17,80,HORVÁTH LÁSZLÓ,5,SOPRON - BRENNBERG BÁNYA,1190 m2,-----,,,TELEK,TULAJDONOS,-----,"VÁSÁRLÁS,  2005."
+867,34,80,HORVÁTH LÁSZLÓ,6,SIROK,2 HA,"SZÁNTÓ, LEGELŐ",,,-----,TULAJDONOS,-----,"VÁSÁRLÁS,  2016."
+876,21,81,Hiszékeny Dezső,1,Érd,558 m2,"kivett lakóház, udvar",125,"m2,",családi ház,tulajdonos,1/2,"vétel,  2020"
+876,38,81,Hiszékeny Dezső,2,Dunakeszi,737 m2,"kivett lakóház, udvar",105,m2,családi ház,tulajdonos,1/2,vétel  2024
+885,21,82,Illés Boglárka,1,Budapest 13. kerület,54 nm + 6 nm terasz,-----,,,Társasház,Tulajdonos,-----,"Vétel,  2011."
+885,38,82,Illés Boglárka,2,Mátészalka,704 nm,-----,"Lakóház,",gazdasági,"Családi ház, műhely, üzlet, garázs",Tulajdonos,1/2,"Ajándékozás,  2001."
+894,21,83,Illés Boglárka,1,Budapest 13. kerület,54 nm + 6 nm terasz,-----,,,Társasház,Tulajdonos,-----,"Vétel,  2011."
+894,38,83,Illés Boglárka,2,Mátészalka,704 nm,-----,"Lakóház,",gazdasági,"Családi ház, műhely, üzlet, garázs",Tulajdonos,1/2,"Ajándékozás,  2001."
+903,21,84,Jakab István,1,Debrecen,571 m²,-----,lakóház,"178,48",családi ház,tulajdonos,175/512,vásárlás  1997. május 31.
+903,38,84,Jakab István,2,Hajdúbagos,84829 m²,szántó,,,-----,-----,-----,-----
+912,21,85,Jakab Péter Dénes,1,-----,-----,-----,,,-----,-----,-----,-----
+921,21,86,JAMBOR ANDRAS IMRE,1,"BUDAPEST, XI. KERÜLET",98 nm,-----,,,TÁRSASHÁZ,TULAJDONOS,1/2,"ÖRÖKLÉS,  2020."
+921,38,86,JAMBOR ANDRAS IMRE,2,"BUDAPEST, VIII. KERÜLET",76 nm,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,"ÖRÖKLÉS,  2018."
+930,21,87,Dr Kovács Zoltán,1,Pápa,692 m2,beépítetlen terület,,,-----,tulajdonos,-----,öröklés  1982.
+930,38,87,Dr Kovács Zoltán,2,Pápa,889 m2,beépítetlen terület,,,-----,tulajdonos,-----,öröklés  1982.
+931,17,87,Dr Kovács Zoltán,3,Pápa,1229 m2,szántó,,,-----,tulajdonos,-----,árverés  1993.
+931,34,87,Dr Kovács Zoltán,4,Pápa,3565 m2,szántó,,,-----,tulajdonos,-----,árverés  1993.
+932,17,87,Dr Kovács Zoltán,5,-----,3193 m2,szántó,,,-----,tulajdonos,-----,árverés  1993.
+932,34,87,Dr Kovács Zoltán,6,Pápa,"1,4 ha",erdő,,,-----,tulajdonos,-----,árverés  1995.
+933,17,87,Dr Kovács Zoltán,7,Pápa,"7,7 ha-ból",erdő,,,-----,tulajdonos,250/7250,árverés  1994.
+933,34,87,Dr Kovács Zoltán,8,Pápa,"5,5 ha-ból",erdő,,,-----,tulajdonos,180/4981,árverés  1994.
+934,17,87,Dr Kovács Zoltán,9,Ugod,"0,5 ha",erdő,,,-----,tulajdonos,-----,árverés  1998.
+934,34,87,Dr Kovács Zoltán,10,Pápa,54 m2,-----,,,társasház,tulajdonos,1/2,vétel  2001.
+935,17,87,Dr Kovács Zoltán,11,Fenyőfő,84 ha-ból,erdő,,,-----,tulajdonos,792/30548,vétel  2010.
+935,34,87,Dr Kovács Zoltán,12,Fenyőfő,53 ha-ból,erdő,,,-----,tulajdonos,496/19248,vétel  2010.
+936,17,87,Dr Kovács Zoltán,13,Fenyőfő,96 ha-ból,erdő,,,-----,tulajdonos,904/34848,vétel  2010.
+936,34,87,Dr Kovács Zoltán,14,Ugod,75 ha-ból,erdő,,,-----,tulajdonos,19/3011,vétel  2011.
+937,17,87,Dr Kovács Zoltán,15,Ugod,79 ha-ból,erdő,,,-----,tulajdonos,50/3189,vétel  2011.
+937,34,87,Dr Kovács Zoltán,16,Ugod,34 ha-ból,erdő,,,-----,tulajdonos,1818/294462,vétel  2011.
+938,17,87,Dr Kovács Zoltán,17,Pápa,1061 m2,beépítetlen terület,,,-----,tulajdonos,-----,vétel  2020
+947,21,88,DR. KONTRÁT KÁROLY,1,PÁPA,17 m2,-----,,,garázs,tulajdonos,1/2.,VÉTEL -  1995.02.07.
+947,38,88,DR. KONTRÁT KÁROLY,2,NYÁRÁD,41.764 m2,SZÁNTÓ,,,-----,tulajdonos,4811/6516,ÖRÖKLÉS - 1991.09.17. RÉSZARÁNYKIADÁS
+948,17,88,DR. KONTRÁT KÁROLY,3,DÖBRÖNTE,4.157 m2,"GYEP, LEGELŐ",,,-----,tulajdonos,1/2.,CSERE -  2004.07.30.
+948,34,88,DR. KONTRÁT KÁROLY,4,GANNA,3.286 m2,GYEP,,,-----,tulajdonos,1/2.,VÉTEL -  1998.02.09.
+949,17,88,DR. KONTRÁT KÁROLY,5,GANNA,2.823 m2,GYEP,,,-----,tulajdonos,1/2.,VÉTEL -  1998.02.09.
+949,34,88,DR. KONTRÁT KÁROLY,6,GANNA,31.645 m2,ERDŐ ÉS GYEP,,,-----,tulajdonos,1/2.,VÉTEL -  1998.08.26.
+950,17,88,DR. KONTRÁT KÁROLY,7,NYÁRÁD,2.606 m2,SZÁNTÓ,,,-----,tulajdonos,1/1,VÉTEL -  2013.02.10.
+950,34,88,DR. KONTRÁT KÁROLY,8,TIHANY,703 m2,"KIVETT HÉTVÉGI HÁZ, UDVAR",üdülő,~135,HÉTVÉGI HÁZ,tulajdonos,1/2.,TELEK: 2017.01.30  ÜDÜLŐ: SAJÁT
+951,17,88,DR. KONTRÁT KÁROLY,9,TIHANY,17 m2,KÖZFORGALOM ELŐL ELNEM ZÁRT MAGÁNÚT,,,-----,tulajdonos,1/2.,VÉTEL -  2017.01.30.
+960,21,89,Kubatov Gábor,1,Farkasgyepű,50nöl,-----,üdülő,30,"magántulajdon, ingatlan",tulajdonos,1/2,öröklés  1986
+960,38,89,Kubatov Gábor,2,Budapest XIV,32 m2,Ø,,,lakás + garázs,tulajdonos,1/1,öröklés  2023
+961,17,89,Kubatov Gábor,3,Bácsszentgyörgy,3361 m2,szántó,,,Ø,tulajdonos,218/877,öröklés  2023
+961,34,89,Kubatov Gábor,4,Bácsszentgyörgy,"4,1705 HA",szántó,,,Ø,tulajdonos,2703/10885,öröklés  2023
+962,17,89,Kubatov Gábor,5,Bácsszentgyörgy,"3,3498 HA",szántó,,,Ø,tulajdonos,2171/8743,öröklés  2023
+962,34,89,Kubatov Gábor,6,Bácsszentgyörgy,2895 m2,"kivett, beépítetlen terület",,,Ø,tulajdonos,2/9,öröklés  2023
+963,17,89,Kubatov Gábor,7,Bácsszentgyörgy,1233 m2,"kivett, beépítetlen terület",,,Ø,tulajdonos,1/3,öröklés  2023.
+963,34,89,Kubatov Gábor,8,Bácsszentgyörgy,7189 m2,"kivett, beépítetlen terület",,,Ø,tulajdonos,447/1798,öröklés  2023.
+964,17,89,Kubatov Gábor,9,Bácsszentgyörgy,1215 m2,"kivett, beépítetlen terület",,,Ø,TULAJDONOS,1/3,öröklés  2023.
+964,34,89,Kubatov Gábor,10,Bácsszentgyörgy,3344 m2,Ø,kivett,"lakóház,",Ø,tulajdonos,1/3,öröklés  2023
+965,17,89,Kubatov Gábor,11,Ø,-----,-----,,,-----,-----,-----,-----
+974,21,90,DR KOVÁCS JÓZSEF,1,5700 GYULA MIKES K. U 8/B,490 m2,-----,LAKÓHÁZ,110,CSALÁDI HÁZ,TULAJDONOS,TELJES,HALÁLOZÁS MIATT / ÖRÖKLÉS  2010
+974,38,90,DR KOVÁCS JÓZSEF,2,5700 GYULA VÁROSHÁZ U. 10. I e 2,58 m2,-----,TÁRSASHÁZI,LAKÁS,-----,TULAJDONOS,TELJES,VAGYONMEGOSZTÁS  2016
+975,17,90,DR KOVÁCS JÓZSEF,3,5700 GYULA VÁSÁRHELYI PÁL U 7 II e 7,56 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,TELJES,VAGYONMEGOSZTÁS  2016
+975,34,90,DR KOVÁCS JÓZSEF,4,6133 JÁSZSZENTLÁSZLÓ MÁJUS1 U. 2.,75 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,TELJES,HALÁLOZÁS MIATT / ÖRÖKLÉS  2021
+976,17,90,DR KOVÁCS JÓZSEF,5,6133 JÁSZSZENTLÁSZLÓ,-----,4 ha ERDŐ TULAJDONOS,,,-----,-----,TELJES AJÁNDÉKOZÁS,2000 
+985,21,91,KARA ÁKOS,1,GYŐR,58 m2,-----,"lakóház,",LAKÓHÁZ,"társasház, TÁRSASHÁZ","tulajdonos, TULAJDONOS",1/1,ADÁSVÉTEL  2024. 08.
+985,38,91,KARA ÁKOS,2,GYŐR,63 m2,-----,,,TÁRSASHÁZ,"haszonélvező, HASZONÉLVEZŐ",-----,TULAJDONSZERZÉS: 2017 
+986,17,91,KARA ÁKOS,3,GYŐR,"14,1 m2",-----,,,"garázs, GARÁZS","tulajdonos, TULAJDONOS",1/1,  2018
+986,34,91,KARA ÁKOS,4,NYÚL,954 m2,-----,LAKÓHÁZ,95,CSALÁDI HÁZ,"tulajdonos, TULAJDONOS",1/1,AJÁNDÉKOZÁS SZÜLŐTŐL  2005. 03. 17.
+987,17,91,KARA ÁKOS,5,NYÚL,1490 m2,-----,,,-----,"tulajdonos, TULAJDONOS",1/1,AJÁNDÉKOZÁS SZÜLŐTŐL INGATLAN
+987,35,91,KARA ÁKOS,6,NYÚL,21 900 m2,KERT,,,-----,"tulajdonos, TULAJDONOS",1/1,ÖRÖKLÉS AJÁNDÉKOZÁS ADÁSVÉTEL 
+988,17,91,KARA ÁKOS,7,GYŐRÚJBARÁT,-----,ERDŐ,,,-----,TULAJDONOS,2049/44196,ÖRÖKLÉS 
+997,21,92,DR. KOCSIS MÁTÉ,1,-----,-----,-----,,,-----,-----,-----,-----
+1006,21,93,F. KOVÁCS SÁNDOR,1,KARCAG,190 m2,-----,,,CSALÁDI HÁZ,TULAJDONOS,1/2,VÁSÁRLÁS  2010. szept
+1006,38,93,F. KOVÁCS SÁNDOR,2,KARCAG,100 m2,-----,,,CSALÁDI HÁZ,TULAJDONOS,1/4,VÁSÁRLÁS  2002
+1015,21,94,DR. KÁLLAI MÁRIA,1,FONYÓD,"53,9 m2",-----,,,TÁRSASHÁZI LAKÁS,TULAJDONOS 1/1,-----,ADÁSVÉTEL  2015
+1024,21,95,Dr. Keresztes László Lóránt,1,Pécs,895,"gazdasági épület, telek",gazdasági,épület,"gazdasági épület, telek",tulajdonos 1/1,házassági vagyonközösség révén 1/2,adásvétel  2005.10.20
+1024,38,95,Dr. Keresztes László Lóránt,2,Pécs,53 m2,lakás,lakóház,53,társasházi lakás,tulajdonos 1/1,házassági vagyonközösség révén 1/2,adásvétel  2019.08.13.
+1025,18,95,Dr. Keresztes László Lóránt,3,Mecseknádasd,742 m2,"Lakóház, udvar, gazdasági épület.",,,"Lakóház, udvar, gazdasági épület.",Tulajdonos,1/2,adásvétel  2022.10.12
+1025,35,95,Dr. Keresztes László Lóránt,4,Mecseknádasd,845 m2,szőlő,,,zártkert (szőlő),tulajdonos,1/2,adásvétel  2023.03.13
+1026,17,95,Dr. Keresztes László Lóránt,5,Pécs,619 m2 (telekterület arányos része),Társasházi lakás,Társasház,(és,Társasházi lakás,Tulajdonos 1/1,-----,ajándékozás  2023.09.19
+1035,21,96,dr. Juhász Hajnalka,1,Budapest (II.),111 m²,-----,,,társasház,tulajdonos,1/2,"adásvétel,  2015"
+1035,38,96,dr. Juhász Hajnalka,2,Budapest (XI),68 m²,-----,,,társasház,tulajdonos,1/2,"adásvétel,  2020"
+1036,17,96,dr. Juhász Hajnalka,3,Bükkszentkereszt,67 m²,-----,,,-----,tulajdonos,1/2,"ajándékozás,  1993"
+1045,21,97,DR. KONCZ ZSÓFIA,1,BUDAPEST XI.,76 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,100 %,"ADÁSVÉTEL,  2015."
+1054,21,98,DR. KONCZ ZSÓFIA,1,BUDAPEST XI.,76 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,100 %,"ADÁSVÉTEL,  2015."
+1063,21,99,DR. KISS JÁNOS,1,MISKOLC,380 m2,"LAKÓHÁZ, UDVAR",lakóház,KB.,CSALÁDI HÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  2005."
+1063,38,99,DR. KISS JÁNOS,2,FONYÓD,1.350 m2,ÜDÜLŐÉPÜLET ÉS UDVAR,üdülő,TULAJDONI,ÜDÜLŐ,TULAJDONOS,141/1000,"ADÁSVÉTEL,  2005. ÉS 2010."
+1064,17,99,DR. KISS JÁNOS,3,ÁTÁNY,"1,079 m2",BEÉPÍTETLEN TERÜLET,,,KERT,TULAJDONOS,3/12,"ÖRÖKLÉS,  2017. ÉS 2021."
+1073,21,100,KOVÁCS ZSOLT,1,MISKOLC,49 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,VÁSÁRLÁS  2001 1/2; 2018 1/1
+1082,21,101,KANÁSZ-NAGY MÁTÉ,1,BUDAPEST IV. KERÜLET,36 nm2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,"ADÁSVÉTEL,  2015. JÚLIUS"
+1091,21,102,KOMJÁTHI IMRE,1,EDELÉNY,724 m2,"kivett lakóház, udvar","222,8",m2,családi ház,tulajdonos,2/5,vásárlás  2004.08.16.
+1100,21,103,Kálmán Olga,1,Budapest 2.,869 m2,"kivett lakóház, udvar",lakóház,250,családi ház,tulajdonos,9/10,saját építés  2017. január 11.
+1109,21,104,Dr. Komáromi Zoltán,1,-----,-----,-----,,,-----,-----,-----,-----
+1118,21,105,KÖVÉR LÁSZLÓ,1,-----,-----,-----,,,-----,-----,-----,-----
+1127,21,106,Kósa Lajos,1,Budakeszi,3565 m2,építési telek,"üdülő,",28,üdülő,tulajdonos,658/3565,"vétel,  2008."
+1127,38,106,Kósa Lajos,2,Budakeszi,131 m2,kivett út,nincs,épület,kivett út,tulajdonos,19/131,"vétel,  2008."
+1128,17,106,Kósa Lajos,3,Budakeszi,147 m2,szolgalmi út,nincs,épület,szolgalmi út,tulajdonos,23/147,"vétel,  1998."
+1128,34,106,Kósa Lajos,4,Szamosszeg,"2,5 hektár",szántó,nincs,épület,szántó,tulajdonos,1/1,"öröklés,  2015."
+1129,17,106,Kósa Lajos,5,Debrecen,1083 m2,építési telek,családi,"ház,",családi ház,tulajdonos,1/2,"vétel,  2002."
+1129,34,106,Kósa Lajos,6,Debrecen,3876 m2,"kivett, zártkerti művelés alól kivett terület",kivett,terület,gazdasági épület és kivett terület,tulajdonos,1/2,"vétel,  2022."
+1138,21,107,KUNHALMI ÁGNES,1,BUDAPEST XIII. KER.,57 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,ADÁS-VÉTEL  2023.
+1138,38,107,KUNHALMI ÁGNES,2,KISKUNMAJSA,6271 m2,KÜLTERÜLETI GYÜMÖLCSÖS,,,-----,TULAJDONOS,1/2,ÖRÖKLÉS  2023.
+1139,17,107,KUNHALMI ÁGNES,3,KISKUNMAJSA,6273 m2,KÜLTERÜLETI GYÜMÖLCSÖS,,,-----,TULAJDONOS,1/2,ÖRÖKLÉS  2023
+1139,34,107,KUNHALMI ÁGNES,4,KISKUNMAJSA,4474 m2,KÜLTERÜLETI SZÁNTÓ,,,-----,TULAJDONOS,1/2,ÖRÖKLÉS  2023.
+1140,17,107,KUNHALMI ÁGNES,5,KISKUNHALAS,817 m2,-----,KIVETT,"LAKÓHÁZ,",-----,TULAJDONOS,1/8,ÖRÖKLÉS  2023.
+1149,21,108,KOVÁCS SÁNDOR,1,Géberjén. 339/1 hrsz,3346 m2,belterület.,1.,Ifjúsági,A felépítmények más tulajdonai,-----,1/1.,öröklés. 
+1149,38,108,KOVÁCS SÁNDOR,2,Géberjén. 33 Hrsz.,2629 m2,telek,,,-----,tulajdonos,1938/3360,vásárlás  2016.
+1150,17,108,KOVÁCS SÁNDOR,3,Géberjén. 32 hrsz.,978 m2,telek,,,-----,-----,144/240,vásárlás  2016.
+1150,34,108,KOVÁCS SÁNDOR,4,Géberjén. 338 hrsz.,1300 m2,telek+épület.,,,családi ház,tulajdonos,1/1.,vásárlás  2016.
+1151,17,108,KOVÁCS SÁNDOR,5,Csengersima (Nagygéc) 1287 hsz.,2044 m2,-----,,,-----,-----,1/2,vásárlás  2013
+1151,34,108,KOVÁCS SÁNDOR,6,Géberjén 04/6 Hrsz.,1904 m2,agyaggödör,,,-----,tulajdonos,1/2,részarány kiadás. 
+1152,17,108,KOVÁCS SÁNDOR,7,Győrtelek 0144/2,3300 m2,"szántó, erdő oszt.köz.tul.",,,-----,-----,1/1.,  részarány kimérés.
+1152,35,108,KOVÁCS SÁNDOR,8,1 Fülpösdaróc. 91 hrsz 3262 m2 major. 1/2. 2. Fülposdaróc. 112 hrsz. 3040 m2 telek,-----,-----,,,-----,-----,-----,-----
+1161,21,109,Dr. Latorcai János Miklós,1,Budapest II. ker.,76 m2,-----,társasházi,"öröklakás,",társasházi öröklakás,tulajdonos,1/4,"tagi hitel érvényesítése,  2021"
+1161,38,109,Dr. Latorcai János Miklós,2,Budapest II. ker.,76 m2,-----,társasházi,"öröklakás,",társasházi öröklakás,tulajdonos,1/2,"vétel,  2014"
+1170,21,110,DR. LÁZÁR JÁNOS,1,Hódmezővásárhely,779 m2,Lakóház,,,-----,Tulajdonos,1/2,vétel -  2001
+1170,38,110,DR. LÁZÁR JÁNOS,2,Budapest XIII. kerület,96 m2,-----,,,Társasház,Tulajdonos,1/2,vétel -  2018
+1171,17,110,DR. LÁZÁR JÁNOS,3,Mártély,2 ha 6837 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  1998
+1171,34,110,DR. LÁZÁR JÁNOS,4,Mindszent,5 ha 1188 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  1996
+1172,17,110,DR. LÁZÁR JÁNOS,5,Mindszent,4 ha 5251 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  1994
+1172,34,110,DR. LÁZÁR JÁNOS,6,Hódmezővásárhely,"8,5173 ha",szántó,,,-----,Tulajdonos,1/1,Ajándékozás -  2002
+1173,17,110,DR. LÁZÁR JÁNOS,7,Hódmezővásárhely,"1,0234 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2004
+1173,34,110,DR. LÁZÁR JÁNOS,8,Hódmezővásárhely,"0,6 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2005
+1174,17,110,DR. LÁZÁR JÁNOS,9,Hódmezővásárhely,"5,1183ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2006
+1174,34,110,DR. LÁZÁR JÁNOS,10,Hódmezővásárhely,"5,3402 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2009
+1175,17,110,DR. LÁZÁR JÁNOS,11,Hódmezővásárhely,"1,6754 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2009
+1175,34,110,DR. LÁZÁR JÁNOS,12,Hódmezővásárhely,"2,77 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2009
+1176,17,110,DR. LÁZÁR JÁNOS,13,Hódmezővásárhely,"5,6304 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2009
+1176,34,110,DR. LÁZÁR JÁNOS,14,Hódmezővásárhely,"3,8898 ha",szántó,,,-----,Haszonélvező,-----,  a jogviszony kezdete: 2013-2014
+1177,17,110,DR. LÁZÁR JÁNOS,15,Hódmezővásárhely,"3,1415 ha",Erdő,,,-----,Haszonélvező,-----,  a jogviszony kezdete: 2013-2014
+1177,35,110,DR. LÁZÁR JÁNOS,16,Hódmezővásárhely,"0,4802 ha",Erdő,,,-----,Haszonélvező,-----,  a jogviszony kezdete: 2013-2014
+1178,17,110,DR. LÁZÁR JÁNOS,17,Hódmezővásárhely,"0,5164 ha",Legelő,,,-----,Haszonélvező,-----,  a jogviszony kezdete: 2013-2014
+1178,35,110,DR. LÁZÁR JÁNOS,18,Hódmezővásárhely,"0, 7268 ha",Töltés,,,-----,Haszonélvező,-----,  a jogviszony kezdete: 2013-2014
+1179,17,110,DR. LÁZÁR JÁNOS,19,Hódmezővásárhely,"0,2305 ha",Kivett mocsár,,,-----,Haszonélvező,-----,  a jogviszony kezdete: 2013-2014
+1179,35,110,DR. LÁZÁR JÁNOS,20,Hódmezővásárhely,"4,3200 ha",szántó,,,-----,Haszonélvező,-----,  a joviszony kezdete: 2013-2014
+1180,17,110,DR. LÁZÁR JÁNOS,21,Hódmezővásárhely,"6,0070 ha",Erdő,,,-----,Tulajdonos,1/1,vétel -  2016
+1180,34,110,DR. LÁZÁR JÁNOS,22,Hódmezővásárhely,"16,4528 ha","szántó, erdő, legelő",,,-----,Tulajdonos,1/1,vétel -  2016
+1181,17,110,DR. LÁZÁR JÁNOS,23,Hódmezővásárhely,"1,7545 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2016
+1181,34,110,DR. LÁZÁR JÁNOS,24,Hódmezővásárhely,226 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  2016
+1182,17,110,DR. LÁZÁR JÁNOS,25,Hódmezővásárhely,"13,8730 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2016
+1182,34,110,DR. LÁZÁR JÁNOS,26,Mád,"1,9884 ha",szőlő,,,-----,Tulajdonos,1/1,vétel -  2017
+1183,17,110,DR. LÁZÁR JÁNOS,27,Hódmezővásárhely,"8,0067 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2017 - 2018
+1183,34,110,DR. LÁZÁR JÁNOS,28,Hódmezővásárhely,2 ha 6639 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  2019
+1184,17,110,DR. LÁZÁR JÁNOS,29,Hódmezővásárhely,2 ha 3531 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  2019
+1184,34,110,DR. LÁZÁR JÁNOS,30,Hódmezővásárhely,2 ha 7959 m2,szántó,,,-----,Tulajdonos,1/1,vétel -  2019
+1185,17,110,DR. LÁZÁR JÁNOS,31,Hódmezővásárhely,"7,0241 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2019
+1185,34,110,DR. LÁZÁR JÁNOS,32,Mád,"4250 m2 + 3613 m2 + 3658 m2 + 2848 m2 + 4916 m Összesen: 1,9285 ha",szőlő,,,-----,Tulajdonos,1/1,vétel -  2019
+1186,18,110,DR. LÁZÁR JÁNOS,33,Földeák,"2009 m2 + 1,0027 ha + 2,0308 ha + 7,9242 ha + 1,1827 ha + 3,6604 ha Összesen:",szántó,,,-----,Tulajdonos,1/1,vétel -  2020
+1186,35,110,DR. LÁZÁR JÁNOS,34,Hódmezővásárhely,"22,9009 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2021
+1187,17,110,DR. LÁZÁR JÁNOS,35,Hódmezővásárhely,"4,3775 ha",-----,,,-----,Tulajdonos,1/2,vétel -  2021
+1187,34,110,DR. LÁZÁR JÁNOS,36,Hódmezővásárhely,"2,6639 ha + 2,3531 ha + 2,7959 ha Összesen: 7,8129 ha",-----,,,-----,Tulajdonos,1/1,vétel -  2021
+1188,17,110,DR. LÁZÁR JÁNOS,37,Mád,3208 m2,"szőlő, legelő",,,-----,Tulajdonos,1/1,vétel -  2022
+1188,35,110,DR. LÁZÁR JÁNOS,38,Földeák,"4124 m2 + 9366 m2 + 8854 m2 + 2,1169 ha + 3221 m2 + 7328 m2 + 6136 m2",szántó,,,-----,Tulajdonos,1/1,vétel -  2022
+1189,17,110,DR. LÁZÁR JÁNOS,39,Hódmezővásárhely,"3,1369 ha",szántó,,,-----,Tulajdonos,1/1,vétel -  2022
+1189,34,110,DR. LÁZÁR JÁNOS,40,Hódmezővásárhely,"8,8995 ha",szántó,,,-----,Tulajdonos,1/1,  2023
+1190,17,110,DR. LÁZÁR JÁNOS,41,Hódmezővásárhely,"10,9426 ha",szántó,,,-----,Tulajdonos,1/1,  2023
+1190,34,110,DR. LÁZÁR JÁNOS,42,Hódmezővásárhely,"3,8459 ha",szántó,,,-----,Tulajdonos,1/1,  2023
+1191,17,110,DR. LÁZÁR JÁNOS,43,Hódmezővásárhely,3385 m2,szántó,,,-----,Tulajdonos,1/1,  2023
+1191,34,110,DR. LÁZÁR JÁNOS,44,Hódmezővásárhely,"3,0930 ha",szántó,,,-----,Tulajdonos,1/1,vétel  2024.
+1192,17,110,DR. LÁZÁR JÁNOS,45,Hódmezővásárhely,"9,4864 ha",-----,,,-----,Tulajdonos,1/1,vétel  2024.
+1192,34,110,DR. LÁZÁR JÁNOS,46,"Budapest, V. kerület",90 m2,-----,,,Társasház,Tulajdonos,1/1,vétel -  2024.
+1201,21,111,Dr. Láng Zsolt,1,Budapest II.,56 m2 + 16 m2,-----,lakóházban,lakás,társasház,tulajdonos,-----,"adás-vétel,  2000."
+1201,38,111,Dr. Láng Zsolt,2,Budapest II.,"88 m2 + 18 m2 + 315,25 m2",-----,lakóházban,"lakás,",társasház,tulajdonos,teremgarázs 6940/63050,"adás-vétel  2004., 2017."
+1210,21,112,Dr. Lukács László György,1,Karcag,749,kivett,"lakóház,",280,"lakóház, udvar, gazdasági épület, kereskedelmi egység",tulajdonos,5/16,"ajándékozás,  2011.05.04"
+1210,38,112,Dr. Lukács László György,2,Karcag,64,kivett,"iroda,",64,társasház,tulajdonos,1200/10000,"ajándékozás,  2016.11.30"
+1211,17,112,Dr. Lukács László György,3,Pula,1882,kivett,"lakóház,",80,"lakóház, udvar, gazdasági ület",tulajdonos,tulajdonos,"ajándékozás,  2020.08.31"
+1211,34,112,Dr. Lukács László György,4,Karcag,428,kivett,"lakóház,",110,"lakóház, udvar, gazdasági épület",tulajdonos,1/2,"adásvétel,  2022.01.26"
+1220,21,113,Lőcsei Lajos,1,Tarnaörs,90m2,-----,,,-----,-----,1/2,tulajdonos  2019
+1229,21,114,LEZSÁK SÁNDOR,1,LAKITELEK,"15,4768 ha; 7,2774 ha","SZŐLŐ, SZÁNTÓ, KIVETT ÚT",,,-----,tulajdonos,1/2,VÁSÁRLÁS  2007.
+1229,38,114,LEZSÁK SÁNDOR,2,LAKITELEK,"2,3451 ha; 10,4322 ha",SZÁNTÓ,,,-----,tulajdonos,1/2,VÁSÁRLÁS  2013
+1238,21,115,dr. Mátrai Márta,1,Kaposvár,1227 m2,-----,230,m2,családi ház,haszonélvező,-----,adásvétel  2003.04.04.
+1238,38,115,dr. Mátrai Márta,2,Balatonfenyves,457 m2,-----,üdülő,58,-----,tulajdonos,1/2,adásvétel  1974
+1247,21,116,Móring József Attila,1,SOMOGYVÁR,-----,-----,,,CSALÁDI HÁZ,TULAJDONOS,-----,VÁSÁRLÁS  2019.
+1247,38,116,Móring József Attila,2,SOMOGYVÁR,-----,-----,,,CSALÁDI HÁZ,-----,-----,VÁSÁRLÁS  2023.
+1256,21,117,DR MOLNÁR ZSOLT,1,BUDAPEST II. KER,119 m2,-----,,,társasház,tulajdonos,170/1149,ADÁS-VÉTEL  2005
+1256,38,117,DR MOLNÁR ZSOLT,2,BUDAPEST II. KER,-----,-----,,,garázs,tulajdonos,1/10,ADÁS-VÉTEL  2005
+1257,17,117,DR MOLNÁR ZSOLT,3,BUDAPEST II. KER,47 m2,-----,,,"üzlet, ÜZLETHELYISÉG, PINCE",-----,1/1,ADÁS-VÉTEL  2010
+1257,34,117,DR MOLNÁR ZSOLT,4,BUDAPEST XIII,79 m2,-----,,,társasház,tulajdonos,190/10.000,ÖRÖKLÉS  2016
+1258,17,117,DR MOLNÁR ZSOLT,5,HARKÁNY,42 m2,-----,,,társasház,tulajdonos,4178/162435 + 1 PARKOLÓ KIZ HASZ,ÖRÖKLÉS  2016
+1258,34,117,DR MOLNÁR ZSOLT,6,ZAMÁRDI,119 m2,-----,,,társasház,tulajdonos,412/1000,ÖRÖKLÉS  2016
+1267,21,118,DR. MOLNÁR ÁGNES,1,SZEGED,54 M2,-----,,,társasház,tulajdonos,1/1,"VÉTEL,  1996."
+1276,21,119,DR. MELLAR TAMÁS,1,ZENGŐVÁRKONY,5881 nm,"LAKÓHÁZ, UDVAR, GAZDASÁGI ÉPÜLET","LAKÓHÁZ,,",115,CSALÁDI HÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  2001.09.10."
+1276,38,119,DR. MELLAR TAMÁS,2,ALSÓNYÉK,1194 nm,"LAKÓHÁZ, UDVAR, GAZDASÁGI ÉPÜLET","LAKÓHÁZ,",72,CSALÁDI HÁZ,TULAJDONOS,-----,"ÖRÖKLÉS,  2018. 12.18."
+1277,17,119,DR. MELLAR TAMÁS,3,ALSÓNYÉK,218000 nm,SZÁNTÓ,,,SZÁNTÓFÖLD MEZŐGAZDASÁGI MŰVELÉS ALATT,TULAJDONOS,-----,"AJÁNDÉKOZÁS,  1998.09.18."
+1277,34,119,DR. MELLAR TAMÁS,4,ALSÓNYÉK,582 nm,SZŐLŐ,,,MŰVELÉS ALATT ÁLLÓ SZŐLŐTERÜLET,TULAJDONOS,-----,"ADÁSVÉTEL,  1976.08.02."
+1278,17,119,DR. MELLAR TAMÁS,5,ALSÓNYÉK,4926 nm,"SZŐLŐ, GAZDASÁGI ÉPÜLET",GAZDASÁGI,"ÉPÜLET,,",MŰVELÉS ALATT LÉVŐ SZŐLŐTERÜLET,TULAJDONOS,-----,"AJÁNDÉKOZÁS,  2005.09.28."
+1278,34,119,DR. MELLAR TAMÁS,6,ZENGŐVÁRKONY,178 nm,KIVETT BEÉPÍTETLEN TERÜLET,,,KERT,TULAJDONOS,1/2,"ADÁSVÉTEL,  2001.07.25."
+1279,17,119,DR. MELLAR TAMÁS,7,MAUTH,646 nm,"LAKÓHÁZ, UDVAR, GAZDASÁGI ÉPÜLET",ÜDÜLŐ,110,CSALÁDI HÁZ,TULADONOS,1/2,adásvétel  2024.10.14.
+1288,21,120,MENCZER TAMÁS,1,BUDAKESZI,"143,53 m2",-----,LAKÓHÁZ,"143,53",CSALÁDI HÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  2018.11.19."
+1288,38,120,MENCZER TAMÁS,2,SIÓFOK,25 m2,-----,ÜDÜLŐ;,25,TÁRSASHÁZ,TULAJDONOS,1/4,ÖRÖKLÉS;  1996.
+1289,17,120,MENCZER TAMÁS,3,BAJA,46 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,AJÁNDÉKOZÁS 
+1298,21,121,Dr. Mészáros Lajos,1,Dunaújváros,-----,-----,lakás,44,társasházi lakás,tulajdonos,1/1,öröklés  2020.05.29.
+1298,38,121,Dr. Mészáros Lajos,2,Dunaújváros,-----,-----,lakás,43,társasházi lakás,tulajdonos,1/1,öröklés  2020.05.29.
+1299,17,121,Dr. Mészáros Lajos,3,Dunaújváros,-----,-----,18,m2,garázs,tulajdonos,1/1,öröklés  2008.
+1299,34,121,Dr. Mészáros Lajos,4,Rácalmás,1627 m2,belterületi telek,lakóház,60,lakóház,tulajdonos,1/1,öröklés  2020.07.07.
+1300,17,121,Dr. Mészáros Lajos,5,Siófok,-----,-----,lakás,40,társasházi lakás,tulajdonos,1/1,vásárlás  2022.11.04.
+1300,34,121,Dr. Mészáros Lajos,6,Budapest 8.,-----,-----,lakás,79,társasházi lakás,tulajdonos,1/1,vásárlás  2024
+1309,21,122,MIHÁLFFY BÉLA LAJOS,1,SZEGED,6104 m2,TANYA,LAKÓHÁZ,110,-----,TULAJDONOS,1/2,VÉTEL  1995
+1318,21,123,V. Németh Zsolt,1,Vasvár,-----,-----,lakóház,56,társasház,tulajdonos,1/2,"vásárlás,  2000. aug. 30"
+1318,38,123,V. Németh Zsolt,2,"OSZKÓ, OSZKÓ, OSZKÓ, OSZKÓ",5076 m2; 8511 m2; 11.9227 m2; 3058 m2,R; E; E; E,,,-----,tulajdonos; tulajd; tulajd; tulajd,171/421; 64/119; 6/96; 1/2,részaránykiadás 1998.02.09; részaránykiadás
+1319,17,123,V. Németh Zsolt,3,OSZKÓ; OSZKÓ; OSZKÓ; OSZKÓ; OSZKÓ,15.4638 m2; 9.0904 m2; 7.5132 m2 1.2765 m2; 15.3691 m2,SZ; E; E; SZ; E,,,-----,tulajdonos; tulajd; tulajd; tulajd; tulajd,2461/28496; 12/156; 24/816 1/1; 144/6480,részaránykiadás 1998.02.10; öröklés
+1319,35,123,V. Németh Zsolt,4,PÁCSONY; PÁCSONY,16.2482 m2; 22.0996 m2,E; E,,,-----,tulajdonos; tulajd,12/282; 12/312,fele kárpótlási árverés 1996.10.29. fele öröklés
+1320,17,123,V. Németh Zsolt,5,PÁCSONY; PÁCSONY,11.0000 m2; 16.7605 m2,E; E,,,-----,tulajdonos; tulajd.,12/300; 12/294,fele kárpótlás 1996.10.29; fele öröklés
+1329,21,124,Dr. Nyitrai Zsolt Péter,1,Andornaktálya,250 m2,"Belterületi, kivett, beépítetlen terület",,,-----,tulajdonos,-----,"vásárlás,  2013.06.22."
+1329,38,124,Dr. Nyitrai Zsolt Péter,2,Andornaktálya,122 m2,külterületi ingatlan,,,-----,tulajdonos,-----,"vásárlás,  2013.06.22."
+1330,17,124,Dr. Nyitrai Zsolt Péter,3,Eger,-----,-----,"lakás,",68m2,társasház,tulajdonos,-----,"4/10, vásárlás,  2011"
+1340,21,125,Németh Szilárd István,1,Budapest XXI. kerület,539 m2 (telek),-----,lakóház,+,családi ház,tulajdonos,1/2 részben,vétel;  2006. október 17.
+1340,38,125,Németh Szilárd István,2,Budapest XXI. kerület,64 m2,-----,,,szövetkezeti ház,tulajdonos,1/4 részben,öröklés;  2006. november 21.
+1341,17,125,Németh Szilárd István,3,Budapest XXI. kerület,960 m2 (üres telek),gyümölcsös,,,-----,tulajdonos,1/4 részben,öröklés;  2006. november 21.
+1350,21,126,Dr. Navracsics Tibor,1,Rigács,1661 m2,belterület,építési,telek,építési telek,tulajdonos,-----,"adásvétel,  2021. október 30."
+1350,38,126,Dr. Navracsics Tibor,2,Budakeszi,83 m2,belterület,,,családi ház,tulajdonos,1/2,"adásvétel,  2022. június 22."
+1359,21,127,Dr Nagy István,1,"Mosonmagyaróvár, Hrsz: 4025",1456 m2 telek,lakóház,lakóház,120,családi ház,tulajdonos,50%,vásárlás  1994. július 08
+1359,38,127,Dr Nagy István,2,"Mosonmagyaróvár, Hrsz: 242",68 m2,lakóház,lakóház,68,társasház,tulajdonos,50%,vásárlás 
+1360,17,127,Dr Nagy István,3,"Újfehértó, Hrsz: 3661",1160 m2 telek,lakóépület,lakóház,100,családi ház,tulajdonos,1/6,"öröklés,  2009.07.23"
+1360,34,127,Dr Nagy István,4,"Dunaremete, Hrsz: 017/8","0,4931 ha",Szántó és gazdasági épület,Gazdasági,épület,gazdasági épület,tulajdonos,100%,"vásárlás,  2013. 10. 03"
+1361,17,127,Dr Nagy István,5,"Somlóvásárhely, Hrsz: 1747","0,3953 ha",Szőlő + Gazdasági épület,"Pince,",48,Pince,tulajdonos,100%,"vásárlás,  2019. 02. 18"
+1361,34,127,Dr Nagy István,6,"levél:, hrsz: 044/3; 044/1 ; 038/6 ; 0122 ;","6,3332 ha",Erdő-Gyep,,,Ø,tulajdonos,100%,"vásárlás,  1997"
+1362,17,127,Dr Nagy István,7,"Mecsér, Hrsz: 052/37","1,5785 ha","Gyümölcsös, fásított terület",,,Ø,tulajdonos,100%,"vásárlás,  2016. 10.24"
+1362,34,127,Dr Nagy István,8,"Mecsér, Hrsz: 052/18","0,5516 ha",legelő,,,Ø,tulajdonos,100%,"vásárlás ,  2018"
+1363,17,127,Dr Nagy István,9,"Mecsér, Hrsz: 052/36",5658 m2,"lakóház, udvar",tanya,98,tanya,tulajdonos,100%,vásárlás  2014 január. 05
+1363,34,127,Dr Nagy István,10,"Mecsér, hrsz: 052/35","1,4729 ha",legelő,,,Ø,tulajdonos,100%,"vásárlás,  2019. 11. 15"
+1364,17,127,Dr Nagy István,11,"Várbalog, Hrsz: 0130/51","1,1947 ha",agyaggödör,,,Ø,tulajdonos,100%,"vásárlás,  2020. január 06"
+1364,34,127,Dr Nagy István,12,"Mosonmagyaróvár, Hrsz: 0328/22; 0328/21","1,2652 + 0,6218 ha",fásított terület,,,Ø,tulajdonos,100%,"vásárlás,  2010 és 2019. 09. 30"
+1365,17,127,Dr Nagy István,13,"Újfehértó , hrsz: 0443/4","2,6656 ha",Szántó,,,Ø,tulajdonos,100%,"vásárlás,  2001 és ajándékozás 2023 május 18."
+1374,21,128,Nagy Csaba,1,Kovácsszénája,1498 m2,udvar,lakóház,95,-----,tulajdonos,1/2,"vétel,  2018;"
+1374,38,128,Nagy Csaba,2,Pécs,63 m2,-----,,,társasházi lakás,tulajdonos,-----,"öröklés, ajándékozás,  2015, 2020;"
+1375,17,128,Nagy Csaba,3,Dombóvár,1051 m2,zártkert,"faház,",pince;,-----,tulajdonos,1/2,"öröklés, ajándékozás,  2015, 2020;"
+1384,21,129,Novák Előd,1,Budaörs,824 m2,gyümölcsös és gazdasági épület,gazdasági,"épület,",-----,tulajdonos,-----,"vétel,  2000"
+1384,38,129,Novák Előd,2,Budaörs,566 m2,kivett lakóház és udvar,"lakóház,",154,családi ház,tulajdonos,1/2,"vétel,  2012"
+1393,21,130,Nacsa Lőrinc,1,-----,-----,-----,,,-----,-----,-----,-----
+1402,21,131,Nacsa Lőrinc,1,-----,-----,-----,,,-----,-----,-----,-----
+1411,21,132,NAGY SÁNDOR BÁLINT,1,KESZTHELY,-----,-----,TÁRSASHÁZI,"LAKÁS,",TÁRSASHÁZI LAKÁS,HASZONÉLVEZŐ,-----,"AJÁNDÉKOZÁS,  2021."
+1420,21,133,NÉMETH ZSOLT,1,BUDAPEST XXII,1201 m2,-----,"LAKÓHÁZ,",236,CSALÁDI HÁZ,TULAJDONOS,1/2,VÉTEL  (1998)
+1429,21,134,DR. OLÁH LAJOS,1,DEBRECEN,920 m2,-----,LAKÓHÁZ,174,CSALÁDI HÁZ,TULAJDONOS,-----,TELEKVÉTEL 1992  HASZN.ENG. 1995
+1429,38,134,DR. OLÁH LAJOS,2,BUDAPEST III.,1064 m2,-----,LAKÓHÁZ,246m2,CSALÁDI HÁZ,TULAJDONOS,-----,TELEKVÉTEL 1998.  HASZN.ENG. 2001.
+1439,21,135,OVÁDI PÉTER,1,VESZPRÉM,723 m2,-----,103,m2,-----,TULAJDONOS,8/10,"CSERE,  2016.01.13."
+1439,38,135,OVÁDI PÉTER,2,CSOPAK,2552 m2,"ZÁRTKERT, MŰVELÉS ALÓL KIVONT TERÜLET",60,m2,-----,TULAJDONOS,2250/7656,"561/7656 AJÁNDÉKOZÁS, 2004.11.16. "
+1440,17,135,OVÁDI PÉTER,3,VESZPRÉM,67 m2,-----,,,-----,TULAJDONOS,10/40,AJÁNDÉKOZÁS  1996.04.23.
+1440,34,135,OVÁDI PÉTER,4,MEGYER,"1,692 HEKTÁR",SZÁNTÓ,,,-----,TULAJDONOS,1/1,AJÁNDÉKOZÁS  2017.02.16.
+1441,17,135,OVÁDI PÉTER,5,VESZPRÉM,18 m2,-----,,,GARÁZS,-----,1/1,"VÉTEL,  2022."
+1450,21,136,OVÁDI PÉTER,1,VESZPRÉM,723 m2,-----,103,m2,-----,TULAJDONOS,8/10,"CSERE,  2016.01.13."
+1450,38,136,OVÁDI PÉTER,2,CSOPAK,2552 m2,"ZÁRTKERT, MŰVELÉS ALÓL KIVONT TERÜLET",60,m2,-----,TULAJDONOS,2250/7656,"561/7656 AJÁNDÉKOZÁS, 2004.11.16. "
+1451,17,136,OVÁDI PÉTER,3,VESZPRÉM,67 m2,-----,,,-----,TULAJDONOS,10/40,AJÁNDÉKOZÁS  1996.04.23.
+1451,34,136,OVÁDI PÉTER,4,MEGYER,"1,692 HEKTÁR",SZÁNTÓ,,,-----,TULAJDONOS,1/1,AJÁNDÉKOZÁS  2017.02.16.
+1452,17,136,OVÁDI PÉTER,5,VESZPRÉM,18 m2,-----,,,GARÁZS,-----,1/1,"VÉTEL,  2022."
+1461,21,137,dr. Orbán Balázs András,1,-----,-----,-----,,,-----,-----,-----,-----
+1470,21,138,Orosz Anna,1,Budapest XI. kerület,69 m2,LAKÁS,,,TÁRSASHÁZ,TULAJDONOS,-----,AJÁNDÉKOZÁSSAL VEGYES VÉTEL  (2020)
+1479,21,139,dr. ORBÁN VIKTOR,1,Budapest XII.,1544 m2 telek 791/1000-ed része,-----,lakóház,/,társasház,-----,1/2,vétel  2002.05.09
+1479,38,139,dr. ORBÁN VIKTOR,2,Felcsút,2079 m2,belterület,"lakóház,",udvar,-----,tulajdonos,1/1,vétel  2013.09.17
+1488,21,140,Pánczél Károly,1,GYÁL,720 m2,lakótelek,lakóház,120,családi ház,1/2 tulajdonos,1/2,"telek ajándékozással 1985,  családi ház építése"
+1488,39,140,Pánczél Károly,2,TÁPIÓSZENTMÁRTON,2041 m2,zártkert,üdülő,üdülőtelek,üdülőtelek,tulajdonos,1/2,adásvétel 1987 1/3;  öröklés 2017 1/6;
+1497,21,141,POGÁCSÁS TIBOR,1,MONOR,1056 m2,"telek, lakóház",lakóház,130,családi ház,tulajdonos,50%,"vásárlás, építés  1990"
+1497,38,141,POGÁCSÁS TIBOR,2,MONOR,642 m2,építési telek,,,építési telek,tulajdonos,50%,vásárlás  2007
+1498,17,141,POGÁCSÁS TIBOR,3,MONOR,329,pince-présház,,,"pince,présház 25 m2",tulajdonos,100%,vásárlás  2013
+1498,34,141,POGÁCSÁS TIBOR,4,MONOR,1078 m2,"telekk, lakóház",,,családi ház,tulajdonos,100%,öröklés  2023
+1499,17,141,POGÁCSÁS TIBOR,5,Balatonakarattya,693 m2,lakóház - udvar,lakóház,90,családi ház,tulajdonos,100%,öröklés  2023
+1499,34,141,POGÁCSÁS TIBOR,6,Hajdúdorog,593 m2,zártkert,,,-----,-----,10%,öröklés  2023
+1508,21,142,Dr. Pósán László,1,-----,-----,-----,,,-----,-----,-----,-----
+1517,21,143,DR PESTI IMRE,1,TIHANY,1552 m2,-----,,,családi ház,-----,1/2,VÁSÁRLÁS  2012
+1517,38,143,DR PESTI IMRE,2,1172 BUDAPEST,850 m2,-----,,,családi ház,haszonélvező,-----,VÁSÁRLÁS-ÉPÍTÉS  1993
+1518,17,143,DR PESTI IMRE,3,GALGAMÁCSA,60 AK,SZÁNTÓ-LEGELŐ,,,-----,tulajdonos,1/1,VÁSÁRLÁS  1998
+1527,21,144,PÓCS JÁNOS,1,JÁSZAPÁTI /KÜLTERÜLET/,- 4.587.- m2,GAZDASÁGI ÉPÜLET; UDVAR; SZÁNTÓFÖLD,,,GAZDASÁGI ÉPÜLET; GAZDASÁGI LÉTESÍTMÉNY,TULAJDONOS,-----,ÉPÍTÉS: 1995;  ÉPÜLET BŐVÍTÉS: 1998
+1527,38,144,PÓCS JÁNOS,2,JÁSZAPÁTI /KÜLTERÜLET/,- 54.721 - m2,GAZDASÁGI ÉPÜLET; SZÁNTÓFÖLD; GAZDASÁGI ÉPÜLET,GAZDASÁGI,ÉPÜLET;,GAZDASÁGI LÉTESÍTMÉNY,TULAJDONOS,-----,ÉPÍTÉS: 1998;  ÉPÍTÉS: 2000
+1528,17,144,PÓCS JÁNOS,3,JÁSZAPÁTI /KÜLTERÜLET/,- 28.020.- m2,SZÁNTÓ; CSATORNA; TELEPHELY,,,-----,TULAJDONOS,-----,VÁSÁRLÁS:  1999
+1528,34,144,PÓCS JÁNOS,4,JÁSZIVÁNY /KÜLTERÜLET/,- 34.852.- m2,SZÁNTÓFÖLD /LEGELŐBŐL SZÁNTÓVÁ MINŐSÍTVE/,,,-----,TULAJDONOS,-----,VÁSÁRLÁS:  1997
+1529,17,144,PÓCS JÁNOS,5,-----,-----,-----,,,-----,-----,-----,-----
+1529,34,144,PÓCS JÁNOS,6,JÁSZAPÁTI /KÜLTERÜLET/,- 20.588 m2 -,SZÁNTÓ; CSATORNA,,,-----,TULAJDONOS,-----,VÁSÁRLÁS:  2024.
+1530,17,144,PÓCS JÁNOS,7,JÁSZAPÁTI /KÜLTERÜLET/,- 3.611.- m2,SZÁNTÓ,,,-----,TULAJDONOS,-----,VÁSÁRLÁS:  2024.
+1530,34,144,PÓCS JÁNOS,8,JÁSZAPÁTI /BELTERÜLET/,- 396.- m2,LAKÓHÁZ; UDVAR; GAZDASÁGI ÉPÜLET,,,-----,TULAJDONOS,50 %,"HAGYATÉKI ELJÁRÁS,  2024."
+1539,21,145,Dr. Pajtók Gábor,1,Eger,90nm,-----,,,iroda,tulajdonos,1/2,vétel  1997
+1539,38,145,Dr. Pajtók Gábor,2,Eger,64nm,-----,,,üzlet,tulajdonos,1/2,vétel;  2006
+1540,17,145,Dr. Pajtók Gábor,3,Eger,565 nm,lakótelek,,,-----,tulajdonos,1/2,vétel  2020
+1540,34,145,Dr. Pajtók Gábor,4,Siófok,701 nm,-----,,,családi ház,tulajdonos,1/2,vétel;  2017
+1541,17,145,Dr. Pajtók Gábor,5,Szihalom,4783nm,szántó,,,-----,tulajdonos,1/2,öröklés/  1998
+1541,34,145,Dr. Pajtók Gábor,6,Mezőkövesd,24119nm,szántó,,,-----,tulajdonos,3509/2419,öröklés  2009
+1542,17,145,Dr. Pajtók Gábor,7,Szihalom,16.492nm,szántó,,,-----,tulajdonos,-----,vétel  1995
+1542,34,145,Dr. Pajtók Gábor,8,Füzesabony,11.772nm,szántó,,,-----,tulajdonos,-----,vétel;  1996
+1543,17,145,Dr. Pajtók Gábor,9,Szihalom,17.320nm,szántó,,,-----,tulajdonos,-----,vétel;  1996
+1543,34,145,Dr. Pajtók Gábor,10,Szihalom,27.957nm,szántó,,,-----,tulajdonos,-----,vétel;  1995
+1544,17,145,Dr. Pajtók Gábor,11,Szihalom,41.379nm,szántó,,,-----,tulajdonos,-----,vétel;  1996
+1544,34,145,Dr. Pajtók Gábor,12,Szihalom,16680 nm,szántó,,,-----,tulajdonos,-----,vétel;  1996.
+1553,21,146,ROGÁN ANTAL,1,SZAKONYFALU / FELSŐSZÖLNÖK,2046 m2,KÜLTERÜLETI SZÁNTÓ,,,-----,TULAJDONOS,3/24,"ÖRÖKLÉS,  1998. MÁJUS"
+1553,38,146,ROGÁN ANTAL,2,SZAKONYFALU,1 HA 4379m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,3/12,"ÖRÖKLÉS,  2008. NOVEMBER"
+1554,17,146,ROGÁN ANTAL,3,SZAKONYFALU,633 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,3/12,"ÖRÖKLÉS,  2008. NOVEMBER"
+1554,34,146,ROGÁN ANTAL,4,SZAKONYFALU,9531 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,1/8,"ÖRÖKLÉS,  2008. NOVEMBER"
+1555,17,146,ROGÁN ANTAL,5,SZAKONYFALU,5420 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,2/8,"ÖRÖKLÉS,  2008. NOVEMBER"
+1555,34,146,ROGÁN ANTAL,6,SZAKONYFALU,2 HA 5820 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,2/8,"ÖRÖKLÉS,  2008. NOVEMBER"
+1556,17,146,ROGÁN ANTAL,7,SZAKONYFALU,5147 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,1/8,"ÖRÖKLÉS,  2008. NOVEMBER"
+1556,34,146,ROGÁN ANTAL,8,SZAKONYFALU,1 HA 9393 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,54/216,"ÖRÖKLÉS,  2008. NOVEMBER"
+1557,17,146,ROGÁN ANTAL,9,SZAKONYFALU,8349 m2,KÜLTERÜLETI ERDŐ ÉS SZÁNTÓ,,,-----,TULAJDONOS,1/8,"ÖRÖKLÉS,  2008. NOVEMBER"
+1557,34,146,ROGÁN ANTAL,10,SZAKONYFALU / FELSŐSZÖLNÖK,3669 m2,KÜLTERÜLETI ERDŐ,,,-----,TULAJDONOS,3/24,"ÖRÖKLÉS,  1998. MÁJUS"
+1558,17,146,ROGÁN ANTAL,11,SZAKONYFALU,4212 m2,KÜLTERÜLETI RÉT,,,-----,TULAJDONOS,3/24,"ÖRÖKLÉS,  1998. MÁJUS"
+1558,34,146,ROGÁN ANTAL,12,SZAKONYFALU / FELSŐSZÖLNÖK,1590 m2,KÜLTERÜLETI RÉT,,,-----,TULAJDONOS,15/1320,"ÖRÖKLÉS,  1998. MÁJUS"
+1559,17,146,ROGÁN ANTAL,13,SZAKONYFALU / FELSŐSZÖLNÖK,2554 m2,KÜLTERÜLETI RÉT,,,-----,TULAJDONOS,15/1320,"ÖRÖKLÉS,  1998. MÁJUS"
+1559,34,146,ROGÁN ANTAL,14,SZAKONYFALU / FELSŐSZÖLNÖK,3719 m2,KÜLTERÜLETI RÉT,,,-----,TULAJDONOS,15/1320,"ÖRÖKLÉS,  1998. MÁJUS"
+1568,21,147,Rétvári Bence,1,Budapest XI. kerület,138 négyzetméter,-----,"lakóház,",társasház,lakás,tulajdonos,1/1,"adásvétel,  2012."
+1568,38,147,Rétvári Bence,2,Balatonkenese,206 négyzetméter (tetőtér beépítéssel ház bővítés történt),művelés alól kivett,,,családi ház,tulajdonos,1/2,"adásvétel,  2021."
+1577,21,148,RIZ GÁBOR,1,-----,-----,-----,,,-----,-----,-----,-----
+1586,21,149,Ritter Imre,1,Budaörs,654,"kivett művelési ágú lakóház, udvar","lakóház,",gazdasági,családi ház,-----,-----,-----
+1595,21,150,FÖLDI JUDIT,1,SZÉKESFEHÉRVÁR,1245 m2,-----,LAKÓHÁZ,"144,69",-----,TULAJDONOS,1/2,"VÉTEL,  2019.07.23."
+1604,21,151,Dr. Simicskó István,1,Pilisszentiván,523 m2,-----,"lakóház,",udvar,családi ház,tulajdonos,1/1,öröklés  2023.
+1604,38,151,Dr. Simicskó István,2,Siófok,77 m2,-----,,,társasház,tulajdonos,1/1,öröklés  2023
+1613,21,152,Dr SIMON MIKLÓS,1,Debrecen,1094 m2 46/827 része,udvar,lakóház,"(69,7",társasház,tulajdonos,1/2,építés  (1991)
+1613,38,152,Dr SIMON MIKLÓS,2,Nyírbogát,7145 m2,szántó,,,-----,tulajdonos,1,vásárlás  (1990)
+1614,17,152,Dr SIMON MIKLÓS,3,Nyírbogát,3783 m2,udvar + kert,lakóház,(190,családi ház,tulajdonos,1/2,építés  (2002)
+1614,34,152,Dr SIMON MIKLÓS,4,Nyírbogát,4688 m2 + 2382 m2,szántó,,,-----,tulajdonos,1,"vásárlás  (2010, 2020)"
+1615,17,152,Dr SIMON MIKLÓS,5,Érpatak,5011 + 3818 m2,udvar + kert,,,családi ház,tulajdonos,1/3,öröklés  (2013)
+1615,34,152,Dr SIMON MIKLÓS,6,Újfehértó,8461 m2,szántó,,,-----,tulajdonos,1/3,öröklés  (2013)
+1616,17,152,Dr SIMON MIKLÓS,7,Érpatak,"4,8 + 1,1 hektár",szántó,,,-----,tulajdonos,1/3,öröklés  (2013)
+1625,21,153,SZÁSZFALVI LÁSZLÓ,1,-----,-----,-----,,,-----,-----,-----,-----
+1634,21,154,DR SZŰCS LAJOS,1,ÓCSA,260 □ ÖL,-----,,,családi ház,TULAJDONOS,1/2,"AJÁNDÉK, ÉPÍTÉS  1987"
+1634,38,154,DR SZŰCS LAJOS,2,BUDAPEST X. KER,50 m2,-----,TÁRSASHÁZI,LAKÁS,társasház,TULAJDONOS,-----,ÖRÖKLÉS  2023
+1635,17,154,DR SZŰCS LAJOS,3,BUDAPEST,70 m2,-----,TÁRSASHÁZI,LAKÁS,társasház,TUAJDONOS,-----,ÖRÖKLÉS  2023.
+1644,21,155,Soltész Miklós,1,Budajenő,telek 1051m2 + 113 m2 ház,-----,,,családi ház,tulajdonos,1/2,saját építésű lakóház + garázs  1996.
+1644,38,155,Soltész Miklós,2,Budajenő,1082 m2 telek,-----,,,-----,tulajdonos,-----,vétel hitelre  2014.
+1653,21,156,Soltész Miklós,1,Budajenő,telek 1051m2 + 113 m2 ház,-----,,,családi ház,tulajdonos,1/2,saját építésű lakóház + garázs  1996.
+1653,38,156,Soltész Miklós,2,Budajenő,1082 m2 telek,-----,,,-----,tulajdonos,-----,vétel hitelre  2014.
+1662,21,157,SZIJJÁRTÓ PÉTER,1,GYŐR,"371 m2 (telek), 126 m2 (lakás)",-----,,,"LAKÓHÁZ, UDVAR",TULAJDONOS (HASZONÉLVEZETTEL TERHELT),3/5,VÉTEL  (1994.11.15.)
+1662,38,157,SZIJJÁRTÓ PÉTER,2,BALATONEDERICS,2472 m2,-----,,,ZÁRT KERT,TULAJDONOS,4/5,VÉTEL  (2009.08.01.)
+1663,17,157,SZIJJÁRTÓ PÉTER,3,BALATONEDERICS,NÉGY KÜLÖNBÖZŐ HELYRAJZI SZÁMON NYILVÁNTARTVA ÖSSZESEN: 5436 m2,-----,ÜDÜLŐ:,91,ZÁRT KERT,TULAJDONOS,1/1,VÉTEL  (2009.08.01.)
+1663,34,157,SZIJJÁRTÓ PÉTER,4,BALATONEDERICS,HÁROM KÜLÖNBÖZŐ HELYRAJZI SZÁMON NYILVÁNTARTVA ÖSSZESEN: 2271 m2,"GYEP (RÉT), SZŐLŐ",GAZDASÁGI,ÉPÜLET,ZÁRT KERT,TULAJDONOS,1/2,VÉTEL  (2010.04.21.)
+1664,18,157,SZIJJÁRTÓ PÉTER,5,DUNAKESZI,1586 m2,-----,LAKÓHÁZ,(LAKÓTÉR:,CSALÁDI HÁZ,TULAJDONOS,1/2,VÉTEL  (2014.08.09.)
+1673,21,158,Szatmáry Kristóf,1,"Budapest, XVI. kerület",750 m2,-----,lakóház,230,családi ház,tulajdonos,1/2,  2014
+1673,38,158,Szatmáry Kristóf,2,Szentgotthárd,4327 m2,kivett,,,-----,tulajdonos,-----,"vétel,  1991"
+1674,17,158,Szatmáry Kristóf,3,Szentgotthard,5103 m2,kivett,,,-----,haszonélvező,-----,"vétel,  2008"
+1674,34,158,Szatmáry Kristóf,4,Mindszentkálla,"2,8 ha","szőlő, rét, szántó",,,-----,tulajdonos,-----,"vétel,  2010"
+1675,17,158,Szatmáry Kristóf,5,Kisapáti,"2,5 ha",szőlő,,,-----,-----,-----,"vétel,  2018"
+1675,34,158,Szatmáry Kristóf,6,Badacsonytomaj,"1,6 ha","szőlő, kivett",gazdasági,épület,borászat; panzió,tulajdonos,1/2,  2016
+1684,21,159,dr Seszták Miklós,1,Kisvárda,0 m2,-----,"lakóház,",87,társasház,tulajdonos,1/2,"vétel,  1996"
+1684,38,159,dr Seszták Miklós,2,Kisvárda,0 m2,-----,"lakóház,",82,társasház,tulajdonos,1/10 és 5/10 illet. 4/10,"öröklés és vétel,  6/10 öröklés 1989 és 2021"
+1685,17,159,dr Seszták Miklós,3,"Budapest, XIII.kerület",0 m2,-----,"lakóház,",98,társasház,tulajdonos,1/1,"vétel,  2007"
+1685,34,159,dr Seszták Miklós,4,"Budapest, XIII.kerület",0 m2,-----,"lakás,",66,társasház,1/2 haszonélvező,-----,"alapítás,  2012"
+1686,17,159,dr Seszták Miklós,5,Kisvárda,731 m2,"kivett lakóház, udvar, gazdasági épület","lakás,",100,családi ház,tulajdonos,-----,"adásvétel,  2019"
+1696,21,160,Szabó Rebeka,1,Budapest 14.,80 nm,belterület,,,társasház,tulajdonos,40 %,"vásárlás,  2019.05."
+1705,21,161,SZABÓ TIMEA,1,"BUDAPEST, III. KERÜLET",72 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/1,"ADÁSVÉTEL,  2009."
+1705,38,161,SZABÓ TIMEA,2,"BUDAPEST, III KERÜLET",86 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  1990."
+1714,21,162,Szabó Zsolt,1,Gyöngyöstarján,163 ha,Mg-i terület,,,-----,tulajdonos,"50 %, 60 %, 3 %,","vétel csere  2005-2010, 2012."
+1714,38,162,Szabó Zsolt,2,Gyöngyöspata,"15,5 ha",Mg-i terület,,,-----,tulajdonos,"1/1, 3488/183510","vétel, csere  2005-"
+1715,17,162,Szabó Zsolt,3,Hatvan Boldogi tábla,"10,8 ha",Mg-i,,,-----,tulajdonos,-----,vétel  2015-2024
+1715,34,162,Szabó Zsolt,4,Szuha,8 ha,Mg-i terület,,,-----,tulajdonos,"2 %, 7 %, 1/1",  2015
+1716,17,162,Szabó Zsolt,5,Boldog,"6,7 ha",Rét,,,-----,tulajdonos,1/1,vétel  2015 -
+1716,34,162,Szabó Zsolt,6,Hatvan,1125 m2,udvar,lakóház,70,-----,"haszonélvező, Haszonélvezet",-----,ajándék  2019
+1717,17,162,Szabó Zsolt,7,Gyöngyös,"0,4 ha",Mg-i terület,,,-----,tulajdonos,368/46554,-----
+1717,34,162,Szabó Zsolt,8,Gyöngyöstarján,30 ha,Erdőgazdálkodás,,,-----,-----,5-100 %,folyamatos 
+1726,21,163,Szabó Zsolt,1,Gyöngyöstarján,163 ha,Mg-i terület,,,-----,tulajdonos,"50 %, 60 %, 3 %,","vétel csere  2005-2010, 2012."
+1726,38,163,Szabó Zsolt,2,Gyöngyöspata,"15,5 ha",Mg-i terület,,,-----,tulajdonos,"1/1, 3488/183510","vétel, csere  2005-"
+1727,17,163,Szabó Zsolt,3,Hatvan Boldogi tábla,"10,8 ha",Mg-i,,,-----,tulajdonos,-----,vétel  2015-2024
+1727,34,163,Szabó Zsolt,4,Szuha,8 ha,Mg-i terület,,,-----,tulajdonos,"2 %, 7 %, 1/1",  2015
+1728,17,163,Szabó Zsolt,5,Boldog,"11,6 ha",Rét,,,-----,tulajdonos,1/1,vétel  2015 -
+1728,34,163,Szabó Zsolt,6,Hatvan,1125 m2,udvar,lakóház,70,-----,"haszonélvező, Haszonélvezet",-----,ajándék  2019
+1729,17,163,Szabó Zsolt,7,Gyöngyös,"0,4 ha",Mg-i terület,,,-----,tulajdonos,368/46554,-----
+1729,34,163,Szabó Zsolt,8,Gyöngyöstarján,30 ha,Erdőgazdálkodás,,,-----,-----,5-100 %,folyamatos 
+1738,21,164,DR. SZABÓ TÜNDE,1,Budapest II/A. kerület,825 nm,-----,Lakóház,177,Családi ház,Tulajdonos,3/8 tulajdoni hányad,adás-vétel  2010.
+1738,38,164,DR. SZABÓ TÜNDE,2,Nyíregyháza,-----,-----,lakás,52,társasház,haszonélvező,-----,haszonélvezeti jog  2001.
+1739,17,164,DR. SZABÓ TÜNDE,3,Budapest II. kerület,44 nm,-----,,,üzlet (iroda),tulajdonos,1/1,adás-vétel  2014.
+1739,34,164,DR. SZABÓ TÜNDE,4,Budapest II. kerület,65 nm,-----,,,társasház (üzlet),haszonélvező,-----,haszonélvezeti jog  2023.
+1748,21,165,DR. SZABÓ TÜNDE,1,Budapest II/A. kerület,825 nm,-----,Lakóház,177,Családi ház,Tulajdonos,3/8 tulajdoni hányad,adás-vétel  2010.
+1748,38,165,DR. SZABÓ TÜNDE,2,Nyíregyháza,-----,-----,lakás,52,társasház,haszonélvező,-----,haszonélvezeti jog  2001.
+1749,17,165,DR. SZABÓ TÜNDE,3,Budapest II. kerület,44 nm,-----,,,üzlet (iroda),tulajdonos,1/1,adás-vétel  2014.
+1749,34,165,DR. SZABÓ TÜNDE,4,Budapest II. kerület,65 nm,-----,,,társasház (üzlet),haszonélvező,-----,haszonélvezeti jog  2023.
+1758,21,166,Süli János,1,Madocsa,475 m2,beépítetlen terület (belterület),,,-----,tulajdonos,-----,vásárlás  2002
+1767,21,167,Sebián-Petrovszki László,1,Békéscsaba,150 m2,belterület,"lakóház,",150,társasház,tulajdonos,1/4,"öröklés,  1993"
+1767,38,167,Sebián-Petrovszki László,2,Békéscsaba,7003 m2,termőföld,,,termőföld,tulajdonos,1/2,"öröklés,  1993"
+1768,17,167,Sebián-Petrovszki László,3,Telekgerendás,22142 m2,termőföld,,,termőföld,tulajdonos,1/2,"öröklés,  1993"
+1777,21,168,dr. Szeberényi Gyula Tamás,1,Kecskemét,-----,kivett,lakás,65,társasház,tulajdonos,-----,"ajándékozás, öröklés  2023.09.17.; 2023.11.03"
+1777,38,168,dr. Szeberényi Gyula Tamás,2,Kecskemét,-----,kivett,"garázs,",13,társasház,tulajdonos,-----,"adásvétel,  2014.12.19."
+1778,17,168,dr. Szeberényi Gyula Tamás,3,Kecskemét,597 m2,kivett,"lakóház,",udvar,"lakóház, üzlet",tulajdonos,21/120,"ajándékozás,  2016.03.01."
+1778,34,168,dr. Szeberényi Gyula Tamás,4,Pécs,-----,kivett,53,m2,társasház,tulajdonos,-----,"adásvétel,  2019.06.28"
+1779,17,168,dr. Szeberényi Gyula Tamás,5,Kecskemét,-----,kivett,lakóház,90,társasház,tulajdonos,7/10,adásvétel  2017. július 7.
+1788,21,169,Sztojka Attila,1,Esztergom-kertváros,720 m2,belterület,"lakóház,",150,családi ház,tulajdonos,1/2,"adás-vétel  2002, építés 2007."
+1788,38,169,Sztojka Attila,2,Esztergom,444 m2,belterület,"lakóház,",gazdasági,családi ház,tulajdonos,1/1,adás-vétel  2018.
+1797,21,170,SZABADI ISTVÁN,1,"KISKUNHALAS,",595 m2,-----,LAKÓHÁZ+GARÁZS,413,CSALÁDI HÁZ,HASZONÉLVEZŐ /HOLTIGTARTÓ/,-----,VÉTEL  2003.04.08.
+1797,38,170,SZABADI ISTVÁN,2,"KISKUNHALAS,",3.080 m2,-----,LAKÓHÁZ,+,CSALÁDI HÁZ /ZÁRTKERT/,TULAJDONOS,1/1 /3.080/3397/,"VÉTEL,  1999.11.16."
+1806,21,171,Sebők Éva,1,Orosháza,60 m2,-----,"lakás,",60,-----,tulajdonos,1/1,"öröklés,  2017"
+1806,38,171,Sebők Éva,2,Kecskemét,55 m2,-----,"lakás,",55,-----,tulajdonos,3/20,"vétel,  2021"
+1807,17,171,Sebők Éva,3,Tótkomlós,1986 m2,erdő,,,-----,tulajdonos,4/379,"öröklés,  2017"
+1807,34,171,Sebők Éva,4,Tótkomlós,9142 m2,szántó,,,-----,tulajdonos,1/1,"öröklés,  2017"
+1808,17,171,Sebők Éva,5,Tótkomlós,55 ha,szántó,,,-----,tulajdonos,4426/181258,"öröklés,  2017"
+1808,34,171,Sebők Éva,6,Tótkomlós,3 ha,erdő,,,-----,tulajdonos,98/5426,"öröklés,  2017"
+1809,17,171,Sebők Éva,7,Tótkomlós,51 ha,szántó és legelő,,,-----,tulajdonos,2402/170384,"öröklés,  2017"
+1818,21,172,SAS ZOLTÁN,1,-----,-----,-----,,,-----,-----,-----,-----
+1827,22,173,DR. SELMECZI GABRIELLA,1,TÖRÖKBÁLINT,1347 nm TELEK,-----,fsz.:,"221,9",CSALÁDI HÁZ,TULAJDONOSTÁRS,1/2; HOLTIG TARTÓ HASZONÉLVEZETTEL,  2005. AUGUSZTUS 30.
+1827,39,173,DR. SELMECZI GABRIELLA,2,BUDAÖRS,861 m2,-----,RAKTÁR,ÉS,-----,TULAJDONOS,-----,"AJÁNDÉKOZÁS,  1993. 12. 12"
+1836,21,174,Dr Semjén Zsolt,1,Bp. II.,-----,-----,"lakás,",123,társasház,tulajdonos,1/2,"csere,  1998. XI. 21."
+1836,38,174,Dr Semjén Zsolt,2,Bp. II.,-----,-----,lakás,42,társasház,tulajdonos,1/2,"adásvétel,  2007. X. 17."
+1837,17,174,Dr Semjén Zsolt,3,Balatonfenyves,524 m2,-----,üdülő,102,-----,haszonélvező,-----,"életjáradéki szerződés,  2003. VII. 1."
+1846,21,175,Dr Semjén Zsolt,1,Bp. II.,-----,-----,"lakás,",123,társasház,tulajdonos,1/2,"csere,  1998. XI. 21."
+1846,38,175,Dr Semjén Zsolt,2,Bp. II.,-----,-----,lakás,42,társasház,tulajdonos,1/2,"adásvétel,  2007. X. 17."
+1847,17,175,Dr Semjén Zsolt,3,Balatonfenyves,524 m2,-----,üdülő,102,-----,haszonélvező,-----,"életjáradéki szerződés,  2003. VII. 1."
+1856,21,176,Dr. Szabó Szabolcs,1,Gyöngyöstarján,1124 m2,"kivett lakóház, udvar",hétvégi,"ház,","kivett lakóház, udvar",tulajdonos,1/1,"vásárlás,  2015"
+1856,38,176,Dr. Szabó Szabolcs,2,Gyöngyöstarján,2158 m2,termőföld (zártkert),gazdasági,"épület,",helyszínrajzon fel nem tüntetett épület,tulajdonos,1/1,"vásárlás,  2019"
+1857,17,176,Dr. Szabó Szabolcs,3,Gyöngyöstarján,1079,zártkert,nincs,épület,művelés alól kivett terület,tulajdonos,1/1,"vásárlás,  2019"
+1866,21,177,Dr. Salacz László,1,Kecskemét,505 m2,"lakóház, udvar","lakóház,",110,családi ház,tulajdonos,1/2,"Adásvétel,  2009. 10. 22."
+1866,38,177,Dr. Salacz László,2,Kalocsa,91 m2,lakás,"lakás,",91,társasház,tulajdonos,1/4,"öröklés,  2022. 08. 17."
+1875,21,178,Dr. Salacz László,1,Kecskemét,505 m2,"lakóház, udvar","lakóház,",110,családi ház,tulajdonos,1/2,"Adásvétel,  2009. 10. 22."
+1875,38,178,Dr. Salacz László,2,Kalocsa,91 m2,lakás,"lakás,",91,társasház,tulajdonos,1/4,"öröklés,  2022. 08. 17."
+1884,21,179,SZABÓ SÁNDOR,1,SZEGED,-----,BELTERÜLET,LAKÓHÁZ,",","TÁRSASHÁZ, IKERHÁZ",TULAJDONOS,1/1,ADÁSVÉTELI SZERZŐDÉS  VISSZTERHES
+1884,39,179,SZABÓ SÁNDOR,2,SZEGED,-----,BELTERÜLET,"LAKÓHÁZ,",31,TÁRSASHÁZ,TULAJDONOS,1/1,ADÁSVÉTELI SZERZŐDÉS  VISSZTERHES
+1893,21,180,Simon Róbert Balázs,1,GYŐR,717 m2,lakóház + garázs + udvar,208,m2,családi ház,tulajdonos,1/2,vétel  (2014)
+1893,38,180,Simon Róbert Balázs,2,GYŐR,75 m2,lakás + tároló,73,+,társasházi lakás,tulajdonos,1/2,vétel  (2019)
+1902,21,181,TÁLLAI ANDRÁS LÁSZLÓ,1,BOGÁCS,550 m2,-----,"ÜDÜLŐ,",94,BELTERÜLETI INGATLAN,TULAJDONOS,1/2,"ÉPÍTÉS,  1998"
+1902,38,181,TÁLLAI ANDRÁS LÁSZLÓ,2,MEZŐKÖVESD,389 m2,-----,,,BELTERÜLETI INGATLAN,TULAJDONOS,1/2,VÉTEL  2000-ben
+1903,17,181,TÁLLAI ANDRÁS LÁSZLÓ,3,BÜKKZSÉRC,15 m2,-----,GAZDASÁGI,ÉPÜLET,PINCE,TULAJDONOS,1/1,VÉTEL  2013
+1903,34,181,TÁLLAI ANDRÁS LÁSZLÓ,4,MEZŐKOVESD,371 m2,-----,LAKÓHÁZ,(NEM,"CSALÁDI HÁZ, UDVAR",TULAJDONOS,1/2,VÉTEL  2021
+1912,21,182,DR. TIBA ISTVÁN CSABA,1,BALMAZÚJVÁROS,97 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,162/1873,VÁSÁRLÁS  2025. JÚLIUS
+1912,38,182,DR. TIBA ISTVÁN CSABA,2,BALMAZÚJVÁROS,15 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,28/1873,VÁSÁRLÁS  2005. JÚLIUS
+1913,17,182,DR. TIBA ISTVÁN CSABA,3,BALMAZÚJVÁROS,15 m2,-----,,,TÁRSASHÁZ,TULAJDONOS,28/1873,VÁSÁRLÁS  2005. JÚLIUS
+1922,21,183,Tasó László,1,Nyíradony,1.787 m2,"lakóház, udvar",lakóház,+,családi ház,tulajdonos,1/2,építés  1987.04.28.
+1922,38,183,Tasó László,2,Hajdúszoboszló,710 m2,"lakóház, udvar","lakóház,",udvar,társasház,tulajdonos,1/8,építés  2003.05.26.
+1923,17,183,Tasó László,3,Nyíradony,297.466 m2,erdő - szántó,,,-----,tulajdonos,5632/20280,vétel  2014.04.30.
+1923,34,183,Tasó László,4,Nyíradony,280.515 m2,"közösségi mintatér, erdő",,,-----,tulajdonos,3500/16030,vétel  2009.05.28.
+1924,17,183,Tasó László,5,Nyíradony,11.141 m2,erdő,,,-----,tulajdonos,195/891,öröklés  1997.05.07.
+1924,34,183,Tasó László,6,Nyíradony,17.930 m2,szántó,,,-----,tulajdonos,-----,vétel  2011.09.13.
+1925,17,183,Tasó László,7,Nyíradony,18.291 m2,szántó,,,-----,tulajdonos,-----,vétel  2015.04.28.
+1925,34,183,Tasó László,8,Nyíradony,13.030 m2,szántó,,,-----,tulajdonos,-----,vétel  2015.04.28.
+1926,17,183,Tasó László,9,Nyíradony,4.316 m2,szántó,,,-----,tulajdonos,-----,vétel  2019.07.10.
+1926,39,183,Tasó László,10,Nyíradony,124.300 m2,közjóléti erdő,,,-----,tulajdonos,1/2,vétel  1998.06.16.
+1927,17,183,Tasó László,11,Nyíradony,24.422 m2,erdő,,,-----,tulajdonos,-----,vétel  2019.02.12.
+1927,34,183,Tasó László,12,Nyíradony,111.005 m2,erdő,,,-----,tulajdonos,1/2,vétel  1998.06.16.
+1928,17,183,Tasó László,13,Nyíradony,53.326 m2,szántó,,,-----,tulajdonos,-----,vétel  2020.03.19.
+1928,34,183,Tasó László,14,Nyíradony,4.419 m2,zártkert,,,-----,tulajdonos,-----,vétel  2022.09.07.
+1929,17,183,Tasó László,15,Nyíradony,3.046 m2,zártkert,,,-----,tulajdonos,-----,vétel  2021.09.16.
+1929,34,183,Tasó László,16,Nyíradony,73.364 m2,park - erdő,,,-----,tulajdonos,-----,vétel  2020.02.19.
+1938,21,184,Dr. Tilki Attila,1,Ómassa,618m2,üdülő,"üdülő,",90m2,üdülő,tulajdonos,1/10,"adásvétel,  1986.01.06."
+1947,21,185,Dr. TÓTH BERTALAN,1,NAGYKOZÁR,2780 m2,ERDŐ,,,-----,TULAJDONOS,1/2,ADÁSVÉTEL  2005.12.16.
+1947,38,185,Dr. TÓTH BERTALAN,2,PÉCS,154 m2,KIVETT,"LAKÓHÁZ,",UDVAR,CSALÁDI HÁZ,TULAJDONOS,1/2,ADÁSVÉTEL  2020.07.15.
+1948,17,185,Dr. TÓTH BERTALAN,3,PÉCS,6025 m2,KIVETT,,,BEÉPÍTETLEN TERÜLET,TULAJDONOS,1/1,AJÁNDÉKOZÁS  2012.01. 5.
+1948,34,185,Dr. TÓTH BERTALAN,4,PÉCS,120 m2,KIVETT,"LAKÓHÁZ,","UDVAR,",CSALÁDI HÁZ,TULAJDONOS,7/60,AJÁNDÉKOZÁS  2022.01.06.
+1949,17,185,Dr. TÓTH BERTALAN,5,PÉCS,54 m2,KIVETT,"LAKÓHÁZ,","UDVAR,",CSALÁDI HÁZ,TULAJDONOS,10/60,ADÁSVÉTEL  2022.05.19.
+1958,21,186,TÖRŐ GÁBOR,1,MÓR,873 m2,"LAKÓHÁZ, UDVAR",LAKÓHÁZ,75,CSALÁDI HÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  1990"
+1967,21,187,TESSELY ZOLTÁN,1,CSABDI,3.797 m2,KIVETT BEÉPÍTETLEN,,,-----,TULAJDONOS,1/1,CSERE  2002
+1967,38,187,TESSELY ZOLTÁN,2,CSABDI,1026 m2,KIVETT BEÉPÍTETLEN,,,-----,TULAJDONOS,1/1,CSERE  2003
+1968,17,187,TESSELY ZOLTÁN,3,FÜZÉR,2.010 m2,KIVETT ÉS VENDÉGHÁZ,,,-----,TULAJDONOS,901/4020,ADÁSVÉTEL  2022.
+1968,34,187,TESSELY ZOLTÁN,4,MARTONVÁSÁR,1390 m2,"KIVETT LAKÓÉPÜLET, UDVAR, GAZDASÁGI ÉPÜLET",LAKÓHÁZ,169,-----,TULAJDONOS,1/1,ÖRÖKLÉS  2023
+1969,17,187,TESSELY ZOLTÁN,5,KAJÁSZÓ,"1,33 HA",SZÁNTÓ KÜLTERÜLETEN,,,-----,TULAJDONOS,1/1,ÖRÖKLÉS  2023
+1969,34,187,TESSELY ZOLTÁN,6,KAJÁSZÓ,"1,76 HA",ERDŐ KÜLTERÜLETEN,,,-----,TULAJDONOS,198/4683,ÖRÖKLÉS  2023
+1970,17,187,TESSELY ZOLTÁN,7,CSABDI,5.186 m2,KIVETT BEÉPÍTETLEN,,,-----,TULAJDONOS,1/2,"ADÁS-VÉTEL 2023  2019 VÉTEL,"
+1979,21,188,dr. Tapolczai Gergely,1,Kaposvár,364 nm,-----,"lakóház,","udvar,",családi ház,tulajdonos,1/1,"vétel,  1994.11.30."
+1979,38,188,dr. Tapolczai Gergely,2,Balatonfűzfő,100 nm,-----,,,társasház,tulajdonos,4/5,"vétel,  2020.04.06."
+1988,21,189,TORDAI BENCE,1,"BUDAPEST, II/A KERÜLET",997 nm,"KIVETT LAKÓHÁZ, UDVAR","LAKÓHÁZ,",130,CSALÁDI HÁZ (osztatlan közös tulajdonban álló telken),TULAJDONOS,8/24,"ADÁSVÉTEL,  2016"
+1988,38,189,TORDAI BENCE,2,MAGYARNÁNDOR,247 nm,"KIVETT LAKÓHÁZ, UDVAR","LAKÓHÁZ,",60,CSALÁDI HÁZ,TULAJDONOS,1/2,"ADÁSVÉTEL,  2014"
+1997,21,190,Toroczkai László,1,Ásotthalom,5754 nm,"tanya, szőlő",,,-----,tulajdonos,1/2,ajándékozás  2017
+1997,38,190,Toroczkai László,2,Ásotthalom,8909 nm,szántó,,,-----,tulajdonos,-----,vétel  2020
+1998,17,190,Toroczkai László,3,Ásotthalom,521 nm,kivett út,,,-----,tulajdonos,-----,vétel  2023
+2007,21,191,Tompos Márton Kristóf,1,"Budapest, VII.",34 m2,-----,,,társasházi lakás,tulajdonos,-----,"vásárlás,  2010"
+2016,21,192,Tóth Endre,1,-----,-----,-----,,,-----,-----,-----,-----
+2025,21,193,DR. TUZSON BENCE BALÁZS,1,MÁTRASZENTIMRE,1619 m2,"HÉTVÉGI HÁZ, UDVAR","ÜDÜLŐ,",47,-----,TULAJDONOS,1779/30 000,"ADÁSVÉTEL,  2 000.06.20."
+2025,38,193,DR. TUZSON BENCE BALÁZS,2,MÁTRASZENTIMRE,3550 m2,"KIVETT, BEÉPÍTETLEN TERÜLET","KIVETT,",BEÉPÍTETLEN,"KIVETT, BEÉPÍTETLEN TERÜLET",TULAJDONOS,1/1,"ADÁSVÉTEL, 2008.05.15.  ADÁSVÉTEL,"
+2026,17,193,DR. TUZSON BENCE BALÁZS,3,MÁRIANOSZTRA,7130 m2,SZÁNTÓ,,,-----,TULAJDONOS,4755/12410,"ADÁSVÉTEL,  2024.01.17"
+2026,34,193,DR. TUZSON BENCE BALÁZS,4,MÁRIANOSZTRA,7409 m2,SZÁNTÓ,,,-----,TULAJDONOS,1/2,"ADÁSVÉTEL,  2024.01.17."
+2027,17,193,DR. TUZSON BENCE BALÁZS,5,MÁRIANOSZTRA,5055 m2,SZÁNTÓ,,,-----,TULAJDONOS,1/2,"ADÁSVÉTEL,  2024.01.17"
+2027,34,193,DR. TUZSON BENCE BALÁZS,6,MÁRIANOSZTRA,11852 m2,SZÁNTÓ,,,-----,TULAJDONOS,1/2,"ADÁSVÉTEL,  2024.01.17"
+2028,17,193,DR. TUZSON BENCE BALÁZS,7,MÁRIANOSZTRA,38186 m2,SZÁNTÓ,,,-----,TULAJDONOS,576/8974,"ADÁSVÉTEL,  2024.01.17"
+2037,21,194,UNGÁR PÉTER KÁROLY,1,"BUDAPEST, II. KERÜLET",340 m2,KIVETT LAKÓHÁZ UDVAR,,,CSALÁDI HÁZ,TULAJDONOS,1/4,ÖRÖKLÉS  (2006.)
+2047,21,195,DR. VITÁNYI ISTVÁN JÓZSEF,1,BERETTYÓUJFALU,1 800 m2,-----,LAKÓHÁZ,140,CSALÁDI HÁZ,TULAJDONOS,1/2-ED,VÉTEL-ÉPITÉS  2011
+2047,38,195,DR. VITÁNYI ISTVÁN JÓZSEF,2,BERETTYÓUJFALU,"12,07 m2",KIVETT,,,ÜGYVÉDI IRODA,TULAJDONOS,-----,VAGYONÁTRUHÁZÁS  1994
+2048,17,195,DR. VITÁNYI ISTVÁN JÓZSEF,3,BERETTYÓUJFALU,16 m2,KIVETT,,,-----,TULAJDONOS,-----,VÉTEL  1985
+2057,21,196,Dr. Vadai Ágnes,1,"Budapest, XIII",77,-----,,,társasház,tulajdonos,1/1,"vásárlás,  2015"
+2066,21,197,VARJU LÁSZLÓ,1,MÁGOCS,1455 m2,-----,,,családiház,tulajdonos,100%,"öröklés, vásárlás  2016.11.30"
+2075,21,198,VIGH LÁSZLÓ,1,Felsőrajk,2000 m2,belterület,lakóház,200m2,családi ház,tulajdonos,1/2,épülés  1990.
+2075,38,198,VIGH LÁSZLÓ,2,Dióskál,3ha,gyep,pince,80m2,pince,tulajdonos,-----,öröklés  2000.
+2076,17,198,VIGH LÁSZLÓ,3,Orosztony,7ha,erdő,,,-----,tulajdonos,-----,földkiadás  1998.
+2085,21,199,VÉCSEY LÁSZLÓ JÓZSEF,1,SZADA,1165 m2,Kivett,lakóház,220,családi ház,tulajdonos,1/1,adásvétel  2019
+2085,38,199,VÉCSEY LÁSZLÓ JÓZSEF,2,GÖDÖLLŐ,60 m2,-----,lakóház,60,társasház,haszonélvező,-----,adásvétel  2020
+2086,17,199,VÉCSEY LÁSZLÓ JÓZSEF,3,SZADA,"12,1 ha (32 ha-ból)",erdő,,,-----,tulajdonos,38%,kárpótlás  1996
+2086,34,199,VÉCSEY LÁSZLÓ JÓZSEF,4,MOGYORÓD,2866 m2,szőlő,,,-----,tulajdonos,1/1,kárpótlás  1996
+2087,17,199,VÉCSEY LÁSZLÓ JÓZSEF,5,NEMTI,"1,3 ha",erdő,,,-----,tulajdonos,249/5353,kárpótlás  1996
+2096,21,200,VARGHA TAMÁS,1,BALATONALMÁDI,1309 m2,KIVETT,LAKÓHÁZ,ÉS,-----,TULAJDONOS,539/1309,"VÉTEL, 2005.05.27. TELEKALAKÍTÁS"
+2096,39,200,VARGHA TAMÁS,2,SZÉKESFEHÉRVÁR,120 m2,KIVETT,,,TÁRSASHÁZ,TULAJDONOS,2/8,"ÖRÖKLÉS,  2023.01.26."
+2097,17,200,VARGHA TAMÁS,3,SZÉKESFEHÉRVÁR,6664 m2,KIVETT,BEÉPÍTETLEN,TERÜLET,-----,TULAJDONOS,2/6,"ÖRÖKLÉS,  2023.01.26."
+2106,21,201,VARGHA TAMÁS,1,BALATONALMÁDI,1309 m2,KIVETT,LAKÓHÁZ,ÉS,-----,TULAJDONOS,539/1309,"VÉTEL, 2005.05.27. TELEKALAKÍTÁS"
+2106,39,201,VARGHA TAMÁS,2,SZÉKESFEHÉRVÁR,120 m2,KIVETT,,,TÁRSASHÁZ,TULAJDONOS,2/8,"ÖRÖKLÉS,  2023.01.26."
+2107,17,201,VARGHA TAMÁS,3,SZÉKESFEHÉRVÁR,6664 m2,KIVETT,BEÉPÍTETLEN,TERÜLET,-----,TULAJDONOS,2/6,"ÖRÖKLÉS,  2023.01.26."
+2116,21,202,Varga Gábor,1,Cece,5624 m2,"tanya, rét",220,m2,tanya,tulajdonos,-----,adásvétel  1998.
+2116,38,202,Varga Gábor,2,Cece,545 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  1998.02.16.
+2117,17,202,Varga Gábor,3,Cece,974 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2002.02.14.
+2117,34,202,Varga Gábor,4,Cece,987 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2002.02.14.
+2118,17,202,Varga Gábor,5,Cece,"3,2 Ha","szántő, szőlő, nádas",,,-----,tulajdonos,-----,adásvétel  2000.06.23.
+2118,34,202,Varga Gábor,6,Cece,2232 m2,"szántó, nádas",,,-----,tulajdonos,-----,adásvétel  2011.10.
+2119,17,202,Varga Gábor,7,Cece,"1,2 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  1998.08.15.
+2119,34,202,Varga Gábor,8,Cece,"1,2 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  1998.08.15.
+2120,17,202,Varga Gábor,9,Cece,1944 m2,rét,,,-----,tulajdonos,-----,adásvétel  1998.08.09.
+2120,34,202,Varga Gábor,10,Cece,1333 m2,rét,,,-----,tulajdonos,-----,adásvétel  1998.08.05.
+2121,17,202,Varga Gábor,11,Cece,-----,vízfolyás,,,-----,tulajdonos,-----,adásvétel  2001.07.21.
+2121,34,202,Varga Gábor,12,Cece,4822 m2,szántó,,,-----,tulajdonos,-----,adásvétel  2000.11.16.
+2122,17,202,Varga Gábor,13,Cece,1991 m2,szántó,,,-----,tulajdonos,-----,adásvétel  1999.07.03.
+2122,34,202,Varga Gábor,14,Cece,2792 m2,szántó,,,-----,tulajdonos,-----,adásvétel  1994.07.28.
+2123,17,202,Varga Gábor,15,Vajta,"2,9 Ha",szántó és rét,,,-----,tulajdonos,-----,adásvétel  1997.05.07.
+2123,34,202,Varga Gábor,16,Vajta,"2,7 Ha",szántó és út,,,-----,tulajdonos,-----,adásvétel  1997.05.07.
+2124,17,202,Varga Gábor,17,Cece,"3,34 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  1994.03.21.
+2124,34,202,Varga Gábor,18,Cece,"0,5522 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2011.09.15.
+2125,17,202,Varga Gábor,19,Cece,"9,7 Ha","szántó, legelő",,,-----,tulajdonos,-----,adásvétel  1998.03.13.
+2125,34,202,Varga Gábor,20,Cece,"3,4 Ha","szántó, legelő",,,-----,tulajdonos,-----,adásvétel  1995.03.30.
+2126,17,202,Varga Gábor,21,Cece,"23,7 Ha",erdő,,,-----,tulajdonos,4374/12323,adásvétel 
+2126,34,202,Varga Gábor,22,Cece,"1,6 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  1995.03.20.
+2127,17,202,Varga Gábor,23,Cece,"1,6 Ha",erdő,,,-----,tulajdonos,311/9340,adásvétel  1998.02.27.
+2127,34,202,Varga Gábor,24,Cece,"11,3 Ha",erdő,,,-----,tulajdonos,2456/38094,adásvétel  1998.02.22.
+2128,17,202,Varga Gábor,25,Cece,3757 m2,szántó,,,-----,tulajdonos,-----,adásvétel  2012.05.25.
+2128,34,202,Varga Gábor,26,Cece,"1,5 Ha",szántó,,,-----,tulajdonos,491/1552,adásvétel  2013
+2129,17,202,Varga Gábor,27,Cece,"3,4 Ha",szántó,,,-----,tulajdonos,2047/3747,adásvétel  2013
+2129,34,202,Varga Gábor,28,Cece,"3,4 Ha",szántó,,,-----,tulajdonos,1700/3747,adásvétel  2013
+2130,17,202,Varga Gábor,29,Cece,6426 m2,szántó,,,-----,tulajdonos,-----,adásvétel  2013.
+2130,34,202,Varga Gábor,30,Cece,"4,3 Ha",szántó,,,-----,tulajdonos,100/3506,adásvétel  2013.
+2131,17,202,Varga Gábor,31,Cece,989 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2131,34,202,Varga Gábor,32,Cece,488 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2132,17,202,Varga Gábor,33,Cece,506 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2132,34,202,Varga Gábor,34,Cece,999 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2133,17,202,Varga Gábor,35,Cece,587 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2133,34,202,Varga Gábor,36,Cece,2441 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2134,17,202,Varga Gábor,37,Cece,977 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2134,34,202,Varga Gábor,38,Cece,697 m2,szőlő,,,-----,tulajdonos,-----,adásvétel  2013.
+2135,17,202,Varga Gábor,39,Cece,1483 m2,szőlő,,,-----,tulajdonos,260/360,adásvétel  2013.
+2135,34,202,Varga Gábor,40,Cece,"2,1522 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2016.06.15.
+2136,17,202,Varga Gábor,41,Cece,"0,0989 Ha",szőlő,,,-----,tulajdonos,-----,adásvétel  2020.06.12.
+2136,34,202,Varga Gábor,42,Cece,"4,0331 Ha","legelő, szántó",,,-----,tulajdonos,6600/14000,adásvétel  2020.01.30.
+2137,17,202,Varga Gábor,43,Cece,"1,9956 Ha",szántó,,,-----,tulajdonos,-----,adásvétel  2021.06.11.
+2146,21,203,Dr. Vejkey Imre,1,Balatonföldvár,313,belterület,"üdülő,",40,hétvégi ház és udvar,tulajdonos,1/1,"ajándékozás,  1989"
+2155,21,204,Dr. Vinnai Győző,1,Nyíregyháza-Oros,889 m2,belterület,lakóház,178,családi ház,tulajdonos,50%,"vétel,  2015 április"
+2155,38,204,Dr. Vinnai Győző,2,Nyírtelek,2257 m2,belterület,lakóház,98,családi ház,tulajdonos,100%,"öröklés,  2021. aug. 16."
+2156,17,204,Dr. Vinnai Győző,3,Nyírtelek,1 hektár 6357 m2 szántó,"szántó, külterület",,,-----,tulajdonos,100%,"öröklés,  2021. aug. 16."
+2165,21,205,Varga Zoltán,1,Debrecen,60nm,Belterület,"Lakás,",60nm,Lakás,Tulajdonos,1/4,vétel  2016
+2165,38,205,Varga Zoltán,2,Debrecen,550nm,-----,Lakóház,120nm,Családi ház,Tulajdonos,1/2,építés  1988
+2174,21,206,Vajda Zoltán,1,"Budapest, 16. kerület",1081 nm / 2,-----,"lakóház,",150nm,társasház,tulajdonos,"37,5%","visszterhes (CSOK),  2019. október 18."
+2174,38,206,Vajda Zoltán,2,"Budapest, 7. kerület",30nm,-----,,,társasház,tulajdonos,100%,"visszterhes,  2020. szeptember 2."
+2175,17,206,Vajda Zoltán,3,"Budapest, 16. kerület",32nm,-----,,,társasház,tulajdonos,100%,"visszterhes,  2023. augusztus 10."
+2184,21,207,VARGA FERENC,1,SZEGVÁR,543 m2,KIVETT LAKÓHÁZ,KIVETT,"LAKÓHÁZ,",LAKÓHÁZ,TULAJDONOS,1/2,"VÁSÁRLÁS,  2021.02.08"
+2184,38,207,VARGA FERENC,2,SZEGVÁR,1079 m2,KIVETT LAKÓHÁZ UDVAR,LAKÓHÁZ,"90,22",LAKÓHÁZ,TULAJDONOS,1/1,"VÁSÁRLÁS,  2020.03.24."
+2193,21,208,VARGA MIHÁLY,1,KARCAG,626 m2,telek,,,-----,tulajdonos,1/2,vétel  2001
+2193,38,208,VARGA MIHÁLY,2,BP. II.,94 m2,-----,,,társasház,-----,1/2,vétel  2002
+2194,17,208,VARGA MIHÁLY,3,GYENESDIÁS,1358 + 1340 m2,-----,"lakóház,",204,családi ház,tulajdonos,1/2,vétel  2022
+2194,34,208,VARGA MIHÁLY,4,BP II.,"∑: 44,92 m2",-----,,,"garázs, tároló",tartós használó,1/36 19/447 13/447,"vétel  2002, 2009"
+2195,17,208,VARGA MIHÁLY,5,BP II.,137 m2,-----,,,társasház,tulajdonos,3/9,vétel  2009
+2204,21,209,WITZMANN MIHÁLY,1,BALATONLELLE,501 m2,BELTERÜLET (LAKÓHÁZ + UDVAR),"LAKÓHÁZ,",150,CSALÁDI HÁZ + UDVAR,TULAJDONOS,"HÁZ: 1/2, UDVAR: 1/1","ÉPÍTÉS, 2010. MÁJUS, AJÁNDÉKOZÁS 2022."
+2213,21,210,ZSIGÓ RÓBERT VILMOS,1,-----,-----,-----,,,-----,-----,-----,-----
+2222,21,211,ZSIGÓ RÓBERT VILMOS,1,-----,-----,-----,,,-----,-----,-----,-----
+2231,21,212,Zsiga-Kárpát Dániel Gábor,1,-----,-----,-----,,,-----,-----,-----,-----
+2241,21,213,dr. Vitályos Eszter Zsuzsanna,1,-----,-----,-----,,,-----,-----,-----,-----
+2250,21,214,dr. Zsigmond Barna Pál,1,"Budapest, IV",210 m2,telek/lakóház,162,m2,családi ház,tulajdonos,1/2,adásvétel  2000
+2250,38,214,dr. Zsigmond Barna Pál,2,"Budapest, IV",61 m2,lakás,,,-----,tulajdonos,1/2,adásvétel  2020
+2251,17,214,dr. Zsigmond Barna Pál,3,Csikszentgyörgy,1900 m2,családi ház 160 m2,családi,ház,-----,tulajdonos,1/2,"adásvétel,  2012"
+2251,34,214,dr. Zsigmond Barna Pál,4,Marosvásárhely,"25,5 m2",lakás,,,-----,tulajdonos,1/4,"adásvétel,  2007"
